@@ -4,6 +4,15 @@
 
 This project explores various methods, hardware, and software in order to track maximum usable frequency as it approaches and/or exceeds 50 Mhz.  Specifically discovery of propagated paths at 50 Mhz.  The main method being that of "Chirp Radar".
 
+= Desired End Result =
+
+   * In the end we want to study the near 24/7 Meteor Scatter that can be seen on 55.240/250/260 Mhz TV Ch2 out of Canada and Mexico (and other areas in NA)
+
+   * We also want to monitor other TV Video such as European, Asian, Eu-Asian and African.  Although one of the main reasons for this project is to be able to realize propagation WITHOUT these carriers, since they seem to be fast disappearing.
+
+   * Monostatic Radar (where we can emit "chirps" and obtain things like range, doppler, phase 
+
+   * Bistatic Radar (similar to monostatic except that it uses a TX 'beacon' and remote "RX Sites")
 
 = Details =
 
