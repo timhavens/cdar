@@ -46,4 +46,4 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
    * *Software*
      * GNURadio [http://gnuradio.org/redmine/projects/gnuradio/wiki here]
      * *cuSDR* [http://svn.tapr.org/repos_sdr_hpsdr/trunk/DL3HVH/cuSDR64/ here]
-     * CUDA [http://www.nvidia.com/object/cuda_home_new.html here]
+     * CUDA [http://www.nvidia.com/object/cuda_home_new.html here] *and* [http://www.nvidia.com/content/cuda/spotlights/brian-fanous-mathworks.html here]
