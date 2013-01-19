@@ -1,0 +1,14 @@
+*50 Mhz RF propagation* using *"Chirp Radar"* and reasonably low-cost hardware and software solutions.
+
+= Introduction =
+
+This project explores various methods, hardware, and software in order to track maximum usable frequency as it approaches and/or exceeds 50 Mhz.  Specifically discovery of propagated paths at 50 Mhz.  The main method being that of "Chirp Radar".
+
+
+= Details =
+
+Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as well as K5CM and K6QXY (Use of CW "Pings" to detect reflection points at Es and F2).
+
+  * One of the *MAJOR hurdles* to overcome in 'monostatic' radar is *T/R *switching times in under 1ms (millisecond) as well as RX-settle-Time.
+  * *Bistatic* vs. *Monostatic* Radar and related issues.
+  * *Chirp* vs. *Ping*
