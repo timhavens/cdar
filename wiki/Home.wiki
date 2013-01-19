@@ -13,7 +13,7 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
   * *Bistatic* vs. *Monostatic* Radar and related issues.
   * *Chirp* vs. *Ping*
   * *Hardware* possibilities:
-    * COTS (commercial off the shelf) Transceivers
+    * *Transceivers* COTS (commercial off the shelf) 
        * Ham Radio's such as (Yaesu, Kenwood, Icom, etc...)
        * Ettus N210 (Xilinx® Spartan® 3A-DSP 3400 FPGA) [http://www.ettus.com here]
        * openHPSDR "High Performance Software Defined Radio"
@@ -22,3 +22,5 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
              * Hermes (Cyclone 3 FPGA) [https://apache-labs.com/al-products/1022/OpenHPSDR-Hermes-Transceiver-Card-Assembled--Tested.html here]
              * ANAN-10 (Cyclone 3 FPGA) [https://apache-labs.com/al-products/1030/ANAN-10-Transceiver.html here]
              * ANAN-100D (Cyclone 4 FPGA) [https://apache-labs.com/al-products/1027/ANAN-100D-HF---6M-100W-ALL-MODE-SDR-TRANSCEIVERPREORDER.html here]
+    * *GPSDO*
+       * Jackson-Labs "FURY" [http://www.jackson-labs.com/index.php/products/fury here] *and* [http://www.jackson-labs.com/assets/downloads/Fury_user_manual.pdf User Manual]
