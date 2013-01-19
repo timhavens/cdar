@@ -13,3 +13,7 @@ Each channel displays Avg, Max, and Min so you see a nice range for each time mo
 = Details =
 
 [http://cdar.googlecode.com/svn/wiki/Fullscreen%20capture%201192013%2054706%20PM.jpg]
+
+and this showing a nice Ms burst.
+
+[http://cdar.googlecode.com/svn/wiki/Fullscreen%20capture%201192013%2055640%20PM.jpg]
