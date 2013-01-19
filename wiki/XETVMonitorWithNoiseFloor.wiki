@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Using Spectrumlab I am able to capture my IF out via LP-Pan to a E-Mu 1010m ADAT card.  The IQ is then monitored as a 192khz Spectrum at 9Mhz.
+
+With a little patience I was able to find where 55.240, 55.250, and 55.260 are in the spectrum being monitored.
+
+Then I setup discrete 'channels' for the "SL Watch List and Plotter" to monitor.
+
+Each channel displays Avg, Max, and Min so you see a nice range for each time moment being plotted per channel.
+
+= Details =
+
+[http://cdar.googlecode.com/svn/wiki/Fullscreen%20capture%201192013%2054706%20PM.jpg]
