@@ -31,3 +31,4 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
           * [http://www.innovantennas.us/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=305&virtuemart_category_id=25&Itemid=167 14L X-POL] 18.11dBi / 15.96dBd
    * *Software*
        GNURadio [http://gnuradio.org/redmine/projects/gnuradio/wiki here]
+     *cuSDR* [http://svn.tapr.org/repos_sdr_hpsdr/trunk/DL3HVH/cuSDR64/ here]
