@@ -22,6 +22,9 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
              * Hermes (Cyclone 3 FPGA) [https://apache-labs.com/al-products/1022/OpenHPSDR-Hermes-Transceiver-Card-Assembled--Tested.html here]
              * ANAN-10 (Cyclone 3 FPGA) [https://apache-labs.com/al-products/1030/ANAN-10-Transceiver.html here]
              * ANAN-100D (Cyclone 4 FPGA) [https://apache-labs.com/al-products/1027/ANAN-100D-HF---6M-100W-ALL-MODE-SDR-TRANSCEIVERPREORDER.html here]
+         * Altera
+            * Cyclone III [http://www.altera.com/devices/fpga/cyclone3/cy3-index.jsp here]
+            * Cyclone IV [http://www.altera.com/devices/fpga/cyclone-iv/cyiv-index.jsp here]
     * *GPSDO*
        * Jackson-Labs "FURY" [http://www.jackson-labs.com/index.php/products/fury here] *and* [http://www.jackson-labs.com/assets/downloads/Fury_user_manual.pdf User Manual]
        * Trimble "Thunderbolt" [http://www.novotech.com/sites/default/files/Thunderbold-E-GPS-Disciplined-Clock.pdf here]
