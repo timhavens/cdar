@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Monitor XETV (55Mhz) for Backscatter using Yaesu FTDX-5000, and Innovantenna's 10 El. LFA-HZE.
 
 = Introduction =
 
