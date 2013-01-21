@@ -17,10 +17,10 @@ PlainFreqInputFields=0
 FreqInputFieldsMinMax=0
 
 [MAIN_WINDOW]
-Left=562
-Top=870
-Width=1495
-Height=679
+Left=258
+Top=1021
+Width=1382
+Height=481
 Visible=0
 FormStyle=0
 ShowWindowsInTaskBar=0
@@ -396,7 +396,7 @@ FlipMainAnalyser=0
 BeaconMode=0
 
 [AUDIO_FREQUENCIES]
-fc_rx=10522.6367188
+fc_rx=13780.1044922
 fc_tx=12344.999936
 f_shift=1999.99995904
 fc_stepwidth=0.999999995904
@@ -1428,7 +1428,7 @@ Gain6=0
 Gain7=0
 FreqMixerEnabled=0
 MixerDcReject=0
-MixerFrequency=19480.2621128
+MixerFrequency=22889.2670157
 MixerSideband=0
 
 [CIRCUIT2]
@@ -2014,11 +2014,11 @@ Options5=0
 Hotkey5=0
 
 [WatchWindow]
-Left=301
-Top=83
+Left=622
+Top=135
 Width=1380
 Height=783
-Visible=0
+Visible=1
 FormStyle=0
 
 [WatchListAndPlotter]
@@ -2527,7 +2527,7 @@ Expr100=
 Form100=
 MinV100=
 MaxV100=
-ColWidth0=162
+ColWidth0=271
 ColWidth1=105
 ColWidth2=59
 ColWidth3=71
@@ -2559,14 +2559,18 @@ BkgndColor=0
 GridColor=13619151
 LabelColor=16777215
 PenColor1=8454143
+ShowWhat1=1
+ShowWhat2=1
 PenColor3=16744576
-ShowWhat5=4
+ShowWhat3=1
+ShowWhat4=1
+ShowWhat5=2
 PenDisplayStyle5=1
 PenColor6=65280
-ShowWhat6=4
+ShowWhat6=2
 PenDisplayStyle6=1
 PenColor7=16744576
-ShowWhat7=4
+ShowWhat7=2
 PenDisplayStyle7=1
 PenColor8=16744576
 PenColor9=0
