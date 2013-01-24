@@ -39,7 +39,7 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
        * Trimble "Thunderbolt" [http://www.novotech.com/sites/default/files/Thunderbold-E-GPS-Disciplined-Clock.pdf here]
        * Power Supply "Phase Noise" FAQ: [http://www.leapsecond.com/pages/tbolt/noise.htm here]
     * *High Speed T/R Switching (monostatic)*
-      * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here]
+      * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
       * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here]
     * *Antennas*
        * Innovantenna [here]
