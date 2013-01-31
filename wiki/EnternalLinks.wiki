@@ -1,6 +1,29 @@
 #Interesting Related Links From other sites
 
 = External Links =
-  * 
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [http://code.google.com/p/cdar/wiki/Home CDAR Wiki]
+
+  * [http://openhpsdr.org/ OpenHPSDR]
+  * [http://openhpsdr.org/wiki/index.php?title=HERMES Hermes Wiki]
+  * [https://apache-labs.com/al-products/1022/OpenHPSDR-Hermes-Transceiver-Card-Assembled--Tested.html Buy Hermes]
+  * [https://apache-labs.com/al-products/1027/ANAN-100D-HF---6M-100W-ALL-MODE-SDR-TRANSCEIVERPREORDER.html Anan-100D]
+  * [http://www.n9vv.com/N9VV-Angelia-Highlights.html Angelia]
+  * [http://www.k5so.com/PowerSDR_v2.2.3.triple_Mercury_user_information.pdf Beam Forming]
+  * [http://openhpsdr.org/wiki/index.php?title=HPSDRwiki:Community_Portal OpenHPSDR Wiki]
+  * [http://openhpsdr.org/wiki/index.php?title=GRIFFIN GRIFFIN]
+
+  * [http://www.andraka.com/papers.htm Andraka on FPGA Radar]
+  * [http://n4ip.com/N4IP_Labs/CODAR-WERA.html N4IP CODAR]
+  * [http://n4ip.com/N4IP_Labs/Blog/Entries/2011/5/29_Passive_bi-static_ionospheric_radar_using_codar_transmitter.html N4IP PASSIVE BISTATIC]
+  * [http://jcoppens.com/radio/prop/g3plx/index.en.php G3PLX Chirping]
+  * [http://www.rfspace.com/RFSPACE/SVDownload.html SpectraVue]
+
+  * [https://www.ettus.com/product/details/UN210-KIT Ettus N210]
+  * [http://www.sgo.fi/~j/gnu_chirp_sounder/ GNU Chirp Sounder]
+  * [http://gnuradio.org/redmine/projects/gnuradio/repository/revisions/a44b72ba2a9e572145cf96a7b9f7758bc58238be/show/gr-radar-mono GNURadio Radar Mono]
+  * [https://www.cgran.org/ CGRAN]
+
+  * *AMP IDEAS*
+  * [http://www.w6pql.com/ W6PQL]
+  * [http://www.winfordeng.com/products/cat_brk.php Winford Eng]
+  * [http://www.nxp.com/documents/data_sheet/BLF578.pdf NXP BLF578]
