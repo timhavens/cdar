@@ -26,6 +26,7 @@
   * *AMP IDEAS*
   * [http://www.broadcastconcepts.com Broadcast Concepts Pallet Amps]
   * [http://www.w6pql.com/ W6PQL]
+  * [http://www.w6pql.com/amplifier_control_board.htm amp control board]
   * [http://www.winfordeng.com/products/cat_brk.php Winford Eng]
   * [http://www.nxp.com/documents/data_sheet/BLF578.pdf NXP BLF578]
   * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/BLF178XR%20900W%20FM%20Pallet%20Amplifier BLF178XR]
