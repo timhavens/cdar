@@ -20,6 +20,8 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
   * *T/R Switches*
     * [http://www.dage.com/catalog/catalog_enon/trswitch.htm Dage]
+    * http://cdar.googlecode.com/files/qsk_tr_switch.jpg
+
   * Tables
   * http://cdar.googlecode.com/files/dbm_to_watts_conv.jpg
 
