@@ -5,6 +5,7 @@
 
   * [http://openhpsdr.org/ OpenHPSDR]
   * [http://openhpsdr.org/wiki/index.php?title=HERMES Hermes Wiki]
+  * [https://apache-labs.com/downloadsfiles/1005_HERMES_PROD_SCHEMATICS.pdf Hermes Schem]
   * [https://apache-labs.com/al-products/1022/OpenHPSDR-Hermes-Transceiver-Card-Assembled--Tested.html Buy Hermes]
   * [https://apache-labs.com/al-products/1027/ANAN-100D-HF---6M-100W-ALL-MODE-SDR-TRANSCEIVERPREORDER.html Anan-100D]
   * [http://www.n9vv.com/N9VV-Angelia-Highlights.html Angelia]
