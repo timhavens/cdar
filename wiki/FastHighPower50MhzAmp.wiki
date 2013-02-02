@@ -20,3 +20,6 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
   * Tables
   * http://cdar.googlecode.com/files/dbm_to_watts_conv.jpg
+
+  * Misc
+  * [http://www.shop.customthermoelectric.com/Water-Block-Assembly-All-Copper-30-x-30-x-085-WBA-30-085-CU-01.htm Liquid cooling]
