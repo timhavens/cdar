@@ -24,4 +24,4 @@
   * [https://www.cgran.org/ CGRAN]
 
   * *AMP IDEAS*
-  * 
+  * [http://code.google.com/p/cdar/wiki/FastHighPower50MhzAmp here]
