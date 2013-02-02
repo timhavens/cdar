@@ -34,7 +34,7 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
          * Altera
             * Cyclone III [http://www.altera.com/devices/fpga/cyclone3/cy3-index.jsp here]
             * Cyclone IV [http://www.altera.com/devices/fpga/cyclone-iv/cyiv-index.jsp here]
-       * PerVices Noctar
+       * PerVices-Noctar
          * [http://www.hamradioscience.com/per-vices-noctar-sdr-card-first-look/ PerVices]
          * [http://www.youtube.com/watch?feature=player_embedded&v=6dzqEuCUa1Y#! PerVices Noctar Video]
          * [http://groups.yahoo.com/group/noctar/ Noctar Y! Group]
