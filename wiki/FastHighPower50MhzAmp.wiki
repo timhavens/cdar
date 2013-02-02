@@ -17,4 +17,4 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
   * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/BLF178XR%20900W%20FM%20Pallet%20Amplifier BLF178XR]
 
   * Tables
-  * [http://code.google.com/p/cdar/downloads/detail?name=dbm%20to%20watts%20conv.jpg&can=2&q= dbm to watt]
+  * http://www.gstatic.com/codesite/ph/images/dl_arrow.gif
