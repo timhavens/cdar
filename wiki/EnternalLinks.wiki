@@ -24,14 +24,4 @@
   * [https://www.cgran.org/ CGRAN]
 
   * *AMP IDEAS*
-  * [http://www.broadcastconcepts.com BC -  Pallet Amps]
-  * [http://www.broadcastconcepts.com/coax-heatsinks-power-supplies-resistors-fans-/RF%20Overdrive%20PCB%2030%20to%20250MHz BC - RF Overdrive Board]
-  * [http://www.broadcastconcepts.com/DC-Power-Supplies-Pallet-Amps/MeanWell%201500W%2048V%20DC%20Power%20Supply BC - Amp Power Supply]
-  * [http://www.w6pql.com/ W6PQL]
-  * [http://www.w6pql.com/amplifier_control_board.htm W6PQL - Amp control board]
-  * [http://www.winfordeng.com/products/cat_brk.php Winford Eng]
-  * [http://www.nxp.com/documents/data_sheet/BLF578.pdf NXP BLF578]
-  * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/BLF178XR%20900W%20FM%20Pallet%20Amplifier BLF178XR]
-
-  * Tables
-  * [http://code.google.com/p/cdar/downloads/detail?name=dbm%20to%20watts%20conv.jpg&can=2&q= dbm to watt]
+  * 
