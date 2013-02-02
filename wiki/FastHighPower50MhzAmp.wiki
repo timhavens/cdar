@@ -7,6 +7,7 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
 = Details =
 
+  * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/FM-Pallet-Drivers?product_id=158 Booster Amp 400mw pIN / 15W pOUT]
   * [http://www.broadcastconcepts.com BC -  Pallet Amps]
   * [http://www.broadcastconcepts.com/coax-heatsinks-power-supplies-resistors-fans-/RF%20Overdrive%20PCB%2030%20to%20250MHz BC - RF Overdrive Board]
   * [http://www.broadcastconcepts.com/DC-Power-Supplies-Pallet-Amps/MeanWell%201500W%2048V%20DC%20Power%20Supply BC - Amp Power Supply]
