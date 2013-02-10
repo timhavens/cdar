@@ -44,8 +44,8 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
        * Power Supply "Phase Noise" FAQ: [http://www.leapsecond.com/pages/tbolt/noise.htm here]
     * *High Speed T/R Switching (monostatic)* 
       * These are useful for switching the lo-pwr RF out from the radio away from the PA's very quickly.
-      * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
-      * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here] SWITCHING TIME 3-10 (ns)
+        * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
+        * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here] SWITCHING TIME 3-10 (ns)
       * *THIS IS THE CRUX OF MAKING THIS WORK* We also need a RF switch that has:
         * 1 COMM Port (antenna)
         * 2 Ports (TX and RX)
