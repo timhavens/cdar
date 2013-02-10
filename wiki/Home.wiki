@@ -42,9 +42,17 @@ Inspired by VK3OE ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as we
        * Jackson-Labs "FURY" [http://www.jackson-labs.com/index.php/products/fury here] *and* [http://www.jackson-labs.com/assets/downloads/Fury_user_manual.pdf User Manual]
        * Trimble "Thunderbolt" [http://www.novotech.com/sites/default/files/Thunderbold-E-GPS-Disciplined-Clock.pdf here]
        * Power Supply "Phase Noise" FAQ: [http://www.leapsecond.com/pages/tbolt/noise.htm here]
-    * *High Speed T/R Switching (monostatic)*
+    * *High Speed T/R Switching (monostatic)* 
+      * These are useful for switching the lo-pwr RF out from the radio away from the PA's very quickly.
       * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
       * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here] SWITCHING TIME 3-10 (ns)
+      * *THIS IS THE CRUX OF MAKING THIS WORK* We also need a RF switch that has:
+        * 1 COMM Port (antenna)
+        * 2 Ports (TX and RX)
+        * Can switch in .5mS
+        * Can Handle 500W Average (1 sec ON @500W, 1 sec OFF)
+        * Can Handle Billions of cycles *(this eliminates virtually all NON-PIN Diode switches 1yr = 31.5M sec)*
+        * It seems like a PIN DIODE Switching system is likely the only way to do this.
     * *Antennas*
        * Innovantenna [here]
           * [http://www.innovantennas.us/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=302&virtuemart_category_id=25&Itemid=167 10L X-POL] 15.8dBi / 13.65dBd
