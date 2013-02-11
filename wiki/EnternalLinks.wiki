@@ -26,3 +26,4 @@
 
   * *AMP IDEAS*
   * [http://code.google.com/p/cdar/wiki/FastHighPower50MhzAmp here]
+  * [http://ntrs.nasa.gov/search.jsp?N=0&Ntk=All&Ntt=19840019008&Ntx=mode%20matchallpartial%20 TR Switch]
