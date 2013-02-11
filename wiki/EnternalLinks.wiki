@@ -30,3 +30,4 @@
 
   * *MISC HELP*
   * [http://en.wikipedia.org/wiki/DBm DBm Chart]
+  * [http://www.gare.co.uk/split.htm G3WOS Splitter/Combiner Ideas]
