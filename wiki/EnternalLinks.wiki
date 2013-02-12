@@ -23,6 +23,7 @@
   * [http://www.sgo.fi/~j/gnu_chirp_sounder/ GNU Chirp Sounder]
   * [http://gnuradio.org/redmine/projects/gnuradio/repository/revisions/a44b72ba2a9e572145cf96a7b9f7758bc58238be/show/gr-radar-mono GNURadio Radar Mono]
   * [https://www.cgran.org/ CGRAN]
+  * [http://www.m0dts.co.uk/chirps.htm M0DTS Chirp Radar stuff]
 
   * *AMP IDEAS*
   * [http://code.google.com/p/cdar/wiki/FastHighPower50MhzAmp here]
