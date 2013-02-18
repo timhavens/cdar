@@ -1,0 +1,9 @@
+#In the USA we have to follow the *FCC* rules in part 97.
+
+= Introduction =
+
+* We need to stay within the FCC Part 97 Rules.
+* We need to stay within the ARRL Establish Band-Plan.
+
+= Details =
+
