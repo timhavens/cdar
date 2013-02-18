@@ -16,6 +16,7 @@ This project explores various methods, hardware, and software in order to track 
 
    * *THINKING WHAT'S NEXT!?* (when 45-55 TV carriers are all gone)
      What are we left with for 'indicators' once 45-55Mhz TV are all gone?
+     * 100w CW Beacons (rarely useful at distances of 10,000km+!
      * *Monostatic* Radar (where we can emit "chirps" and obtain things like range, doppler, phase 
      * *Bistatic/Multistatic* Radar (similar to monostatic except that it uses a TX 'beacon' and remote "RX Sites") 'bistatic' is one TX and a remote RX, 'multistatic' is one TX and several RX's.  Use of more than one RX site provides even great detail like phase, doppler, azimuth to refraction points.
 
