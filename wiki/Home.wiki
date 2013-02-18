@@ -18,6 +18,10 @@ This project explores various methods, hardware, and software in order to track 
 
 Inspired by VK3OE [http://cdar.googlecode.com/files/BistaticRadar.pdf Article] ("Bistatic Chirp Radar") and VK6APH ("Hermes/openHPSDR") as well as K5CM and K6QXY (Use of CW "Pings" to detect reflection points at Es and F2).
 
+== Block Diagram ~ Rough Draft ==
+(subject to change as project progresses)
+[http://cdar.googlecode.com/files/CDAR_FIRST_DRAFT.jpg]
+
   * One of the *MAJOR hurdles* to overcome in 'monostatic' radar is *T/R *switching times in under 1ms (millisecond) as well as RX-settle-Time.
   * *Bistatic* vs. *Monostatic* Radar and related issues.
   * *Chirp* vs. *Ping*
