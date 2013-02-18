@@ -14,8 +14,15 @@ Each channel displays Avg, Max, and Min so you see a nice range for each time mo
 
 = Details =
 
+(current version)
+[http://cdar.googlecode.com/files/XETV_Es_2013-02-11a.jpg]
+(current version)
+[http://cdar.googlecode.com/files/XETV_Es_2013-02-11b.jpg]
+
+(older version)
 [http://cdar.googlecode.com/svn/wiki/Fullscreen%20capture%201192013%2054706%20PM.jpg]
 
 and this showing a nice Ms burst.
 
+(older version)
 [http://cdar.googlecode.com/svn/wiki/Fullscreen%20capture%201192013%2055640%20PM.jpg]
