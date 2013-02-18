@@ -25,4 +25,4 @@
 
   === ARRL 6m (50 Mhz) Band Plan ===
     * For this type of operation we want to operate well outside the most commonly used freq-ranges.
-    * 
+    * [http://cdar.googlecode.com/files/arrl_published_band_plan_2013-02-18.jpg]
