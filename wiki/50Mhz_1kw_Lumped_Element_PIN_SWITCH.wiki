@@ -37,7 +37,7 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 ||Mica Capacitors 27pF 1000V +/-0.05%||598-CDV19EF270JO3F||CDV19EF270JO3F||Cornell Dubilier ||$2.72||7||$19.04||[http://www.mouser.com/Search/ProductDetail.aspx?R=CDV19EF270JO3Fvirtualkey59850000virtualkey598-CDV19EF270JO3F here]||
 ||1kw PIN Switch Diode||UM9415||UM9415||Microsemi||$9.75||2||$19.50||[http://www.rfparts.com/catalogsearch/result/?q=UM9415 here]||
 ||5-51.8pF@1070v RMS||(CAV) APL32-52||(CAV) APL32-52||-||$21.25||2||$42.50||[http://www.surplussales.com/Variables/AirVariables/AirVar1.html here]||
-
+||Inductor Wire||AWG?||-||-||$0.00||-||$0.00||[URL here]||
 
 *STILL WORKING ON THIS LIST*
 
