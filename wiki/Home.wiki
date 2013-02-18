@@ -6,11 +6,16 @@ This project explores various methods, hardware, and software in order to track 
 
 = Desired End Result =
 
+== PASSIVE == 
+
    * In the end we want to study the near 24/7 Meteor Scatter that can be seen on 55.240/250/260 Mhz TV Ch2 out of Canada and Mexico (and other areas in NA) [XETVMonitorWithNoiseFloor here].  Not only is it useful to obtain a baseline running average for Ms on these carriers, but it's also useful to know that baseline and compare it to other types of propagated openings like foEs, and foF2.  NW0W has monitored XETV carriers during EU, SA, JA, and SPAC (ZL/VK) openings for the past 5 years, and has noted some very useful detail related to Backscatter from these carriers.  So we want to make use of this data as long as these 55 Mhz carriers are still on air.
 
    * We also want to monitor other TV Video such as European, Asian, Eu-Asian and African.  Although one of the main reasons for this project is to be able to realize propagation WITHOUT these carriers, since they seem to be fast disappearing.
 
+== ACTIVE == 
+
    * *THINKING WHAT'S NEXT!?* (when 45-55 TV carriers are all gone)
+     What are we left with for 'indicators' once 45-55Mhz TV are all gone?
      * *Monostatic* Radar (where we can emit "chirps" and obtain things like range, doppler, phase 
      * *Bistatic/Multistatic* Radar (similar to monostatic except that it uses a TX 'beacon' and remote "RX Sites") 'bistatic' is one TX and a remote RX, 'multistatic' is one TX and several RX's.  Use of more than one RX site provides even great detail like phase, doppler, azimuth to refraction points.
 
