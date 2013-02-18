@@ -6,3 +6,7 @@
   * We need to stay within the ARRL Establish Band-Plan.
 
 = Details =
+
+== FCC Part 97.203, "CDAR" is NOT a beacon! ==
+
+== ARRL 6m (50 Mhz) Band Plan ==
