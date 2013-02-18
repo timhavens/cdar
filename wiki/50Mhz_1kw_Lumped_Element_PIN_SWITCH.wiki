@@ -25,3 +25,9 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
   * *these are WELL WITHIN the requirements we set out to have!*
 
 [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png]
+
+= PARTS LIST =
+
+= North American Vendors =
+
+= EU / Asia Vendors =
