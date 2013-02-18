@@ -19,8 +19,8 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 
 = Original Designs =
 
-  * [http://cdar.googlecode.com/files/page139%2BDUBUS%2BT7.pdf NOAA 50Mhz PIN Switch TR]
-  * SM5BSZ 144Mhz PIN Switch TR
+  * [NOAA 50Mhz PIN Switch TR]
+  * [http://cdar.googlecode.com/files/page139%2BDUBUS%2BT7.pdf SM5BSZ 144Mhz PIN Switch TR]
 
 = Expectations of the switch we've choosen =
 
