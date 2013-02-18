@@ -32,6 +32,13 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 ||Item Description||Mouser Part #|| Manufacturer Part #||Manufacturer||Mouser Price||URL||
 ||8"x10"x2.5" Chassis Enclosure||563-AC-1418||AC-1418||Bud Industries ||$20.20 USD||[http://www.mouser.com/ProductDetail/Bud-Industries/AC-1418/?qs=%2fha2pyFadug%252bNHhpHxZue9YCPW4XaW7r5ADtYqpMq5Q%3d here]||
 ||8"x10" Chassis Plate||563-BPA-1518||BPA-1518||Bud Industries ||$8.80 USD||[http://www.mouser.com/ProductDetail/Bud-Industries/BPA-1518/?qs=%2fha2pyFadui5YzNB0IuYfj1vCUVK15k91MN9EC%252bFMOpbLj9kWTgJng%3d%3d here]||
+||10W 5Ohm Wirewound Resister||588-40J5R0E||40J5R0E||Ohmite||$1.88 USD||[http://www.mouser.com/Search/ProductDetail.aspx?R=40J5R0Evirtualkey58810000virtualkey588-40J5R0E here]||
+||Mica Capacitors 220pF 1000V +/-5%||598-CDV16FF221JO3F||CDV16FF221JO3F||Cornell Dubilier ||$1.73 USD||[http://www.mouser.com/Search/ProductDetail.aspx?R=CDV16FF221JO3Fvirtualkey59850000virtualkey598-CDV16FF221JO3F here]||
+||Mica Capacitors 27pF 1000V +/-0.05%||598-CDV19EF270JO3F||CDV19EF270JO3F||Cornell Dubilier ||$2.72 USD||[http://www.mouser.com/Search/ProductDetail.aspx?R=CDV19EF270JO3Fvirtualkey59850000virtualkey598-CDV19EF270JO3F here]||
+
+||DESC||MOUSERPART||OEMPART||MANUFACTURE ||$PRICE USD||[URL here]||
+
+
 
 = North American Vendors =
 
