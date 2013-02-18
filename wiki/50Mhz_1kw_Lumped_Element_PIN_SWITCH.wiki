@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+#50Mhz 1kw Lumped-Element PIN Switch
 
 = Introduction =
 
-Add your content here.
+Monostatic Radar requires very high speed  TR (transmit/receive) switching.  The TR switch must have very high isolation between T and R components.  It must also have very LOW insertion loss.  Although the design we've settled on suites our requirements for this project, it is likely useful for MANY OTHER applications within the Amateur domain.
+
+This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a newer version from SM5BSZ.  It was modeled by VK3OE (Andrew Martin).
 
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
