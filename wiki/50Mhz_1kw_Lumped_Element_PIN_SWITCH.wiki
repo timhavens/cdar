@@ -38,7 +38,7 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 ||1kw PIN Switch Diode||UM9415||UM9415||Microsemi||$9.75||2||$19.50||[http://www.rfparts.com/catalogsearch/result/?q=UM9415 here]||
 ||5-51.8pF@1070v RMS||(CAV) APL32-52||(CAV) APL32-52||-||$21.25||2||$42.50||[http://www.surplussales.com/Variables/AirVariables/AirVar1.html here]||
 ||Inductor Wire||AWG?||-||-||$0.00||-||$0.00||[URL here]||
-||N Female Bulkhead Connector (x1,x2)||Ebay||Ebay||MANUFACTURE ||$3.29||2||$6.58||[http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=370658907688&ssPageName=ADME:L:OU:US:3160 here]||
+||N Female Bulkhead Connector (x1,x2)||Ebay||Ebay||-||$3.29||2||$6.58||[http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=370658907688&ssPageName=ADME:L:OU:US:3160 here]||
 
 
 *STILL WORKING ON THIS LIST*
