@@ -20,7 +20,7 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
   * *T/R Switches*
     * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH 50Mhz 1kw Pin Switch]
-    * http://cdar.googlecode.com/files/qsk_tr_switch.jpg
+    * http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png
 
   * Tables
   * http://cdar.googlecode.com/files/dbm_to_watts_conv.jpg
