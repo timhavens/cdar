@@ -43,6 +43,7 @@ Inspired by VK3OE [http://cdar.googlecode.com/files/BistaticRadar.pdf Article] (
        * Trimble "Thunderbolt" [http://www.novotech.com/sites/default/files/Thunderbold-E-GPS-Disciplined-Clock.pdf here]
        * Power Supply "Phase Noise" FAQ: [http://www.leapsecond.com/pages/tbolt/noise.htm here]
     * *High Speed T/R Switching (monostatic)* 
+      * HIGH POWER (1kw+) TR PIN SWITCH [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH here]
       * These are useful for switching the lo-pwr RF out from the radio away from the PA's very quickly.
         * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
         * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here] SWITCHING TIME 3-10 (ns)
