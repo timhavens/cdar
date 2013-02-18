@@ -24,5 +24,8 @@
   
 
   === ARRL 6m (50 Mhz) Band Plan ===
-    * For this type of operation we want to operate well outside the most commonly used freq-ranges.
+    * For this type of operation we want to operate well outside the most commonly used freq-ranges to mitigate any interference.
+    * Possible Ranges of operation appear to be
+      * 50.3 - 50.6 Mhz "All modes" (but commonly AM)
+      * *50.6 - 50.8 Mhz* "Nonvoice communication" *** (likely best candidate)
     * [http://cdar.googlecode.com/files/arrl_published_band_plan_2013-02-18.jpg]
