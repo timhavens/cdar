@@ -46,13 +46,7 @@ Inspired by VK3OE [http://cdar.googlecode.com/files/BistaticRadar.pdf Article] (
       * These are useful for switching the lo-pwr RF out from the radio away from the PA's very quickly.
         * Mini-Circuits ZSDR-230+ SPDT Pin Diode Switch [http://www.minicircuits.com/pdfs/ZSDR-230+.pdf here] SWITCHING TIME 2-4 (μSEC)
         * Mini-Circuits ZFSWHA-1-20 Coaxial High Isolation Switch [http://www.minicircuits.com/pdfs/ZFSWHA-1-20+.pdf here] SWITCHING TIME 3-10 (ns)
-      * *THIS IS THE CRUX OF MAKING THIS WORK* We also need a RF switch that has:
-        * 1 COMM Port (antenna)
-        * 2 Ports (TX and RX)
-        * Can switch in .5mS
-        * Can Handle 500W Average (1 sec ON @500W, 1 sec OFF)
-        * Can Handle Billions of cycles *(this eliminates virtually all NON-PIN Diode switches 1yr = 31.5M sec)*
-        * It seems like a PIN DIODE Switching system is likely the only way to do this.
+      * 
     * *Antennas*
        * Innovantenna [here]
           * [http://www.innovantennas.us/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=302&virtuemart_category_id=25&Itemid=167 10L X-POL] 15.8dBi / 13.65dBd
