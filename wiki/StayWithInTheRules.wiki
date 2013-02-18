@@ -10,17 +10,20 @@
   === FCC Part 97.203, "CDAR" is NOT a beacon! ===
      * "CDAR" will be 'attended operation' ONLY.
      * "CDAR" will operate above 100w.
-     * "CDAR" will periodically CQ DE <CALLSIGN> QSX <FREQ> 
-       * Similar to those calling "VVV CQ <CALL>"
-         * The exception is that we will:
-           * "Chirp" 1 second (500hz-2500hz sweep over 1 second period)
-           * listen 1 second (record echos)
-           * repeat above for a time
-           * Periodically ID every few minutes with the preamble
-              * CQ DE <CALLSIGN> QSX <FREQ>
-              * ANSWER CALLERS.
-           * LOG Echo Results
-           * LOG QSOs
+     * "CDAR" will operate between 50.6 - 50.8 Mhz (nonvoice communications - see ARRL band plan)
+{{{
+* "CDAR" will periodically CQ DE <CALLSIGN> QSX <FREQ> 
+  * Similar to those calling "VVV CQ <CALL>"
+    * The exception is that we will
+      * "Chirp" 1 second (500hz-2500hz sweep over 1 second period)
+        * listen 1 second (record echos)
+        * repeat above for a time
+        * Periodically ID every few minutes with the preamble
+          * CQ DE <CALLSIGN> QSX <FREQ>
+          * ANSWER CALLERS.
+        * LOG Echo Results
+        * LOG QSOs
+}}}
   
 
   === ARRL 6m (50 Mhz) Band Plan ===
