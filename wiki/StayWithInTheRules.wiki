@@ -27,7 +27,8 @@
       * Periodically ID every few minutes with the preamble
         * CQ DE <CALLSIGN> QSX <FREQ>
         * ANSWER CALLERS @ QSX <FREQ>
-          * While answering callers at QSX <FREQ> all other operations will cease. (only TX one carrier in-band at a time!)
+          * While answering callers at QSX <FREQ> all other operations will cease. 
+            (only TX one carrier in-band at a time!)
 
       * LOG Echo Results - Automatically & Publish the results.
 
