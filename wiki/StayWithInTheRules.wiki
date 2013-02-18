@@ -16,13 +16,13 @@
   * Similar to those calling "VVV CQ <CALL>"
     * The exception is that we will
       * "Chirp" 1 second (500hz-2500hz sweep over 1 second period)
-        * listen 1 second (record echos)
-        * repeat above for a time
-        * Periodically ID every few minutes with the preamble
-          * CQ DE <CALLSIGN> QSX <FREQ>
-          * ANSWER CALLERS.
-        * LOG Echo Results
-        * LOG QSOs
+      * listen 1 second (record echos)
+      * repeat above for a time
+      * Periodically ID every few minutes with the preamble
+        * CQ DE <CALLSIGN> QSX <FREQ>
+        * ANSWER CALLERS.
+      * LOG Echo Results - Automatically & Publish the results.
+      * LOG QSOs - Automatically & Publish the results.
 }}}
   
 
