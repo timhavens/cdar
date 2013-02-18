@@ -2,8 +2,8 @@
 
 = Introduction =
 
-  * We need to stay within the FCC Part 97 Rules.
-  * We need to stay within the ARRL Establish Band-Plan.
+  * We need to stay within the [http://www.arrl.org/files/file/Regulatory/Part%2097%20-%2004-28-2011.pdf FCC Part 97 Rules.]
+  * We need to stay within the [http://www.arrl.org/band-plan ARRL Establish Band-Plan.]
 
 = Details =
 
