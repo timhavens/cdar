@@ -49,12 +49,12 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 ||SMA Female Bulkhead Connector (x3)||Mouser||712-CONREVSMA004||CONREVSMA004||Linx Technologies||$3.22||1||$3.22||[http://www.mouser.com/ProductDetail/Linx-Technologies/CONREVSMA004/?qs=sGAEpiMZZMuLQf%252bEuFsOru48dlYVRPu%252bm3iTbMVCvJw%3d here]||
 ||Insulated Feed Through (x4)||Ebay||570-1795-02||570-1795-02||Cambion||$0.60||2||$1.20||[http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220768415094&ssPageName=ADME:L:OC:US:1120 here]||
 ||FR4 PCB 6"x9"||Ebay||-||-||-||$4.15||1||$4.15||[http://www.ebay.com/itm/FR4-Copper-Clad-Laminate-PCB-Printed-Circuit-Board-Material-FREE-SHIPPING-USA-/120802756087?pt=LH_DefaultDomain_0&var=&hash=item61ccfc7204 here]||
-
+||*TOTAL*|| || || || || || ||$119.34||-||
 
 
 *STILL WORKING ON THIS LIST*
 
-||DESC||MOUSERPART||OEMPART||MANUFACTURE ||$PRICE||QTY||$SUBTOTAL||[URL here]||
+||DESC||VENDOR||MOUSERPART||OEMPART||MANUFACTURE ||$PRICE||QTY||$SUBTOTAL||[URL here]||
 
 
 
