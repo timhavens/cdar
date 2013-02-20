@@ -32,7 +32,7 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
     * *these are WELL WITHIN the requirements we set out to have!*
 
 [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png]
-  * [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png full sized image]
+  * [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png Full sized Schematic]
   * [http://cdar.googlecode.com/files/VK3OE_PROTOTYPE_50Mhz_1kw_PIN_SWITCH.jpg VK3OE Early Prototype]
 
 
