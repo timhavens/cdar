@@ -11,3 +11,6 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 == PARTS LIST ==
 
 ||50pf 15kvdc||SurplusSales||(CFC) HT570050-15||(CFC) HT570050-15||HEC|$42.00||2||$84.00||[http://www.surplussales.com/capacitors/Trans_Coup_Caps/cap_doorknob.html here]||
+||12 AWG Magnet Wire||Ebay||12 AWG||-||Temco|$6.10||1||$6.10||[http://www.ebay.com/itm/Magnet-Wire-12-AWG-Gauge-Enameled-Copper-4oz-12-5ft-200C-Magnetic-Coil-Winding-/251059969039?pt=LH_DefaultDomain_0&hash=item3a74571c0f here]||
+
+
