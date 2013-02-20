@@ -14,3 +14,4 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 ||12 AWG Magnet Wire||Ebay||12 AWG||-||Temco||$6.10||1||$6.10||[http://www.ebay.com/itm/Magnet-Wire-12-AWG-Gauge-Enameled-Copper-4oz-12-5ft-200C-Magnetic-Coil-Winding-/251059969039?pt=LH_DefaultDomain_0&hash=item3a74571c0f here]||
 ||N-Type Connector Bulkhead||Ebay||-||-||-||$3.29||2||$6.58||[http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=370658907688&ssPageName=ADME:L:OU:US:3160 here]||
 ||Alum Case 7.38"x4.7"x3.07"||Mouser||546-1590EF||1590EF||Hammond||$32.99||1||$32.99||[http://www.mouser.com/ProductDetail/Hammond-Manufacturing/1590EF/?qs=sGAEpiMZZMsrGrAVj6eTvYHXIhi3B2FeyZoATIcNtTE%3d0 here]||
+||*TOTAL*|| || || || || || ||$129.67||-||
