@@ -1,0 +1,11 @@
+#50 Mhz 1kw+ Low Pass Filter ~ K1WHS Design
+
+= Introduction =
+
+Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  However ICE no longer appears to be making these anymore.  K1WHS has a very simple design that should work just fine.
+
+= Details =
+
+[IMG]
+
+== PARTS LIST ==
