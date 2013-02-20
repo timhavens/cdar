@@ -6,6 +6,6 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 
 = Details =
 
-[IMG]
+[http://cdar.googlecode.com/files/50Mhz_LPF_K1WHS.jpg]
 
 == PARTS LIST ==
