@@ -25,8 +25,8 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
   * *T/R Switches*
     * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH 50Mhz 1kw Pin Switch]
 
-  * Tables
+  * *Tables* 
   * http://cdar.googlecode.com/files/dbm_to_watts_conv.jpg
 
-  * Misc
+  * *Misc*
   * [http://www.shop.customthermoelectric.com/Water-Block-Assembly-All-Copper-30-x-30-x-085-WBA-30-085-CU-01.htm Liquid cooling]
