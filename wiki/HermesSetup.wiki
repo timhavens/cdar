@@ -14,3 +14,8 @@ This area will describe the Hermes SDR Setup being used @ NW0W for "CDAR"
   * SMA to RG400 from TX to PA
   * SMA to RG400 to RX from LNA
   * GPSDO
+
+== TBD ==
+
+  * How to get PTT out
+  * How to get TX-INHIBIT operational
