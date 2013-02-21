@@ -1,0 +1,8 @@
+#openHPSDR - Apache-Labs - Hermes Setup for CDAR
+
+= Introduction =
+
+This area will describe the Hermes SDR Setup being used @ NW0W for "CDAR"
+
+
+= Details =
