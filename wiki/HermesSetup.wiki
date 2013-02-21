@@ -4,5 +4,13 @@
 
 This area will describe the Hermes SDR Setup being used @ NW0W for "CDAR"
 
-
 = Details =
+
+  * 12VDC via PSS12-100
+  * 19" Rack
+  * Low-Power Safety TR Pin Switches
+  * Low-Power 50Ohm Dummy load(s) to switch out TX and RX safely to.
+  * Elecraft PR6 LNA
+  * SMA to RG400 from TX to PA
+  * SMA to RG400 to RX from LNA
+  * GPSDO
