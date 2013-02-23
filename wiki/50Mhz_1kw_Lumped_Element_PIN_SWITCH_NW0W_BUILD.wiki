@@ -15,4 +15,4 @@ Steps Taken To recreate the Design VK3OE modeled that is based on a hybrid of a 
       * Winding the coils is pretty straight forward, you simply wrap the wire around the drill-bit or 9mm form the number of turns required by the schematic.
     * Final product of the coils should look something like this.
       [http://cdar.googlecode.com/files/tr_coil_side_view.jpg]
-      [http://cdar.googlecode.com/files/tr_coils_view.jpg]
+      [http://cdar.googlecode.com/files/tr_coils.jpg]
