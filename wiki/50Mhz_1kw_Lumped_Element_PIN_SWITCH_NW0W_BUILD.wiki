@@ -11,7 +11,7 @@ Steps Taken To recreate the Design VK3OE modeled that is based on a hybrid of a 
   * Purchased items in Table 1 of *...*
   * *Building the Coils*
     * To wind the required 10mm diameter coils requires 14 AWG Magnet wire, which is wound around a 9mm form.  In my case I choose to use the shank of an old 23/64 Drill Bit which is very close to 9mm diameter.  This size plus the 14 AWG gauge wire creates the 10mm diameter coil requirement.
-      * A photo of the drill bit used is here.  I wrapped one layer of electrical tape around the shank of the drill-bit in order to not scratch the coating of the magnet wire in the coil area as I wound them.
+      * A photo of [http://cdar.googlecode.com/files/23_64_9mm_drillbit.jpg the drill bit used is here].  I wrapped one layer of electrical tape around the shank of the drill-bit in order to not scratch the coating of the magnet wire in the coil area as I wound them.
       * Winding the coils is pretty straight forward, you simply wrap the wire around the drill-bit or 9mm form the number of turns required by the schematic.
     * Final product of the coils should look something like this.
       [http://cdar.googlecode.com/files/tr_coil_side_view.jpg]
