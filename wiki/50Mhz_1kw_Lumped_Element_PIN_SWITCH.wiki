@@ -34,9 +34,9 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png]
   * [http://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH.png Full sized Schematic]
   * [http://cdar.googlecode.com/files/VK3OE_PROTOTYPE_50Mhz_1kw_PIN_SWITCH.jpg VK3OE Early Prototype]
+  * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH_NW0W_BUILD NW0W Build Details]
 
-
-= PARTS LIST =
+= PARTS LIST Table 1. =
 
 ||Item Description||Vendor||Vendor Part #||Manufacturer Part #||Manufacturer||Price (usd)||Quantiy||Sub-Total (usd)||URL||
 ||8"x10"x2.5" Chassis Enclosure||Mouser||563-AC-1418||AC-1418||Bud Industries ||$20.20||1||$20.20||[http://www.mouser.com/ProductDetail/Bud-Industries/AC-1418/?qs=%2fha2pyFadug%252bNHhpHxZue9YCPW4XaW7r5ADtYqpMq5Q%3d here]||
