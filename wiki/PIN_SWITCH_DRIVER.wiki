@@ -11,4 +11,4 @@ Pin Switch Driver (example)
 
 = Prototype =
 
-[]
+[http://cdar.googlecode.com/files/PIN_DRIVER_EX_2_PROTO.jpg]
