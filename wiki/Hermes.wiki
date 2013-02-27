@@ -11,8 +11,8 @@ I removed the added 'side-rails' from the main Hermes board *VERY GENTLY* using 
 [https://cdar.googlecode.com/files/hermes_removed_side_rails.jpg]
 
 [https://cdar.googlecode.com/files/hermes_in_hammon_case_1.jpg]
-[https://cdar.googlecode.com/files/hermes_in_hammon_case_2.jpg]
-[https://cdar.googlecode.com/files/hermes_in_hammon_case_3.jpg]
-[https://cdar.googlecode.com/files/hermes_in_hammon_case_4.jpg]
-[https://cdar.googlecode.com/files/hermes_in_hammon_case_5.jpg]
-[https://cdar.googlecode.com/files/hermes_in_hammon_case_6.jpg]
+[https://cdar.googlecode.com/files/hermes_in_hammond_case_2.jpg]
+[https://cdar.googlecode.com/files/hermes_in_hammond_case_3.jpg]
+[https://cdar.googlecode.com/files/hermes_in_hammond_case_4.jpg]
+[https://cdar.googlecode.com/files/hermes_in_hammond_case_5.jpg]
+[https://cdar.googlecode.com/files/hermes_in_hammond_case_6.jpg]
