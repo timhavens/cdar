@@ -4,6 +4,8 @@
 
 This area will describe the Hermes SDR Setup being used @ NW0W for "CDAR"
 
+[https://code.google.com/p/cdar/wiki/RackMountSystem RackMount System]
+
 = Details =
 
   * 12VDC via PSS12-100
