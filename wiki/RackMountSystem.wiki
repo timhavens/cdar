@@ -1,0 +1,10 @@
+#Rough Draft Rack Mountable Layout
+
+= Introduction =
+
+Rough Draft Rack Mountable Layout
+
+
+= Details =
+
+[https://cdar.googlecode.com/files/rack_mount.jpg]
