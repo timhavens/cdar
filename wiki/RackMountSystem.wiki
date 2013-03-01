@@ -9,3 +9,4 @@ Rough Draft Rack Mountable Layout
 
 [https://cdar.googlecode.com/files/rack_mount.jpg]
 [https://cdar.googlecode.com/files/rack_mount_power_bay.jpg]
+[https://cdar.googlecode.com/files/rack_mount_rf_bay.jpg]
