@@ -4,6 +4,9 @@
 
 Rough Draft Rack Mountable Layout
 
+  * Power Bay = 100mm 36CFM Fans
+  * SDR Bay = 50mm 28CFM Fans
+  * RF Bay = 200mm 110CFM Fans
 
 = Details =
 
