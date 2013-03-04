@@ -6,13 +6,8 @@ I bought 6 of these MINI-CIRCUITS ZSDR-230 switches on Ebay for $80US.
 They are 5vdc, and use TTL to drive the switch between COM and RF1/RF2.
 In testing with Hermes this evening I discovered @ 50Mhz it's quite excellent!
 
-At -33dbm injected on COM (not calibrated, Elecraft XG3 used) I saw -37.6dbm at RF2.
-
-At -33dbm injected on RF1 I saw -102.5dbm on RF2 at all times.
-
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * At -33dbm injected on COM (not calibrated, Elecraft XG3 used) I saw -37.6dbm at RF2.
+  * At -33dbm injected on RF1 I saw -102.5dbm on RF2 at all times.
+  * -102.5dbm - -37.6dbm = *-64.9dbm isolation* between RF1 & RF2.
