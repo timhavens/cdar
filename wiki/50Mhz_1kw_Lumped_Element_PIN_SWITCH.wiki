@@ -57,9 +57,3 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
 *STILL WORKING ON THIS LIST*
 
 ||DESC||VENDOR||MOUSERPART||OEMPART||MANUFACTURE ||$PRICE||QTY||$SUBTOTAL||[URL here]||
-
-
-
-= North American Vendors =
-
-= EU / Asia Vendors =
