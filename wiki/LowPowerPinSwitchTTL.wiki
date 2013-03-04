@@ -14,4 +14,4 @@ In testing with Hermes this evening I discovered @ 50Mhz it's quite excellent!
 
 [https://cdar.googlecode.com/files/ZSDR-230_1.jpg]
 [https://cdar.googlecode.com/files/ZSDR-230_2.jpg]
-[https://cdar.googlecode.com/files/ZSDR-230_3.jpg]
+[https://cdar.googlecode.com/files/ZSDR_230_3.jpg]
