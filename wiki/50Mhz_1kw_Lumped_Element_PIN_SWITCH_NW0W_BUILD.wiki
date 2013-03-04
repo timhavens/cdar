@@ -16,3 +16,4 @@ Steps Taken To recreate the Design VK3OE modeled that is based on a hybrid of a 
     * Final product of the coils should look something like this.
       [http://cdar.googlecode.com/files/tr_coil_side_view.jpg]
       [http://cdar.googlecode.com/files/tr_coils.jpg]
+  * I'm currently held up waiting for a slow Ebayer to mail my FR4 copper clad PCB's.  However as of 2013-03-04 I got notice that his back orders are starting to ship.  (tried to save a few bucks here, and it bit me in the ass this time).  Anyway, I should be back on the build of this board very soon.
