@@ -11,6 +11,8 @@ In testing with Hermes this evening I discovered @ 50Mhz it's quite excellent!
   * At -33dbm injected on COM (not calibrated, Elecraft XG3 used) I saw -37.6dbm at RF2.
   * At -33dbm injected on RF1 I saw -102.5dbm on RF2 at all times.
   * -102.5dbm - -37.6dbm = *-64.9dbm isolation* between RF1 & RF2.
+  * XG3 isn't really calibrated at this point and the batteries during test may have been low explaining the -33dbm setting being seen at Hermes @ -37.6dbm.  (more testing will be done to confirm this)
+  * Hermes and my PwrSDR app haven't been put through any calibration yet either.  However, I believe the values seen in the test are still valuable enough to show that we have good isolation.
 
 [https://cdar.googlecode.com/files/ZSDR-230_1.jpg]
 [https://cdar.googlecode.com/files/ZSDR-230_2.jpg]
