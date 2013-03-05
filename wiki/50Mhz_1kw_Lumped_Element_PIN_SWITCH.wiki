@@ -18,6 +18,9 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
   * Can Handle Billions of cycles *(this eliminates virtually all NON-PIN Diode switches 1yr = 31.5M sec)*
   * Can be easily reproduced by other Hams and used for other projects as well.
 
+=NOTE=
+This schematic mentions UM9145 these are actually *UM9415* PIN's
+
 = Original Designs =
 
   * [http://cdar.googlecode.com/files/50kw_peak_tr_switch_part_2.jpg NOAA 50Mhz PIN Switch TR] and [http://cdar.googlecode.com/files/50kw_peak_tr_switch_part_1.jpg this]
