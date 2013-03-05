@@ -8,7 +8,7 @@ In testing with Hermes this evening I discovered @ 50Mhz it's quite excellent!
 
 There low-power TTL pins switch in about 2ns.  And will be used as a safety protection for both TX and RX ports, to save Hermes from any high power RF that may leak back towards it from the High Power pin switch.  Also as a fail-safe in case anything down the line fails.
 
-As an added safety, we'll be using the Array Solutions AS-RXFEP shown below, on the RX line input from the High Power TR to the low Power TR Safety switch.
+As an added safety, we'll be using the Array Solutions AS-RXFEP shown below, on the RX line input from the High Power TR to the low Power TR Safety switch. These sell for about $55 each.
 
 [https://cdar.googlecode.com/files/array_solutions_as-rxfep_1.jpg]
 [https://cdar.googlecode.com/files/array_solutions_as-rxfep_2.jpg]
