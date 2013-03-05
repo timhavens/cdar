@@ -4,7 +4,8 @@
 
 Pin Switch Driver (example)
 
-=NOTE= There is an error on this schematic that is yet to be updated.  There are some missing electrolytic caps.  This will be updated soon.
+=NOTE= 
+There is an error on this schematic that is yet to be updated.  There are some missing electrolytic caps.  This will be updated soon.
 
 = Details =
 
