@@ -10,6 +10,9 @@ There low-power TTL pins switch in about 2ns.  And will be used as a safety prot
 
 As an added safety, we'll be using the Array Solutions AS-RXFEP shown below, on the RX line input from the High Power TR to the low Power TR Safety switch.
 
+[https://cdar.googlecode.com/files/array_solutions_as-rxfep_1.jpg]
+[https://cdar.googlecode.com/files/array_solutions_as-rxfep_2.jpg]
+
 = Details =
 
   * At -33dbm injected on COM (not calibrated, Elecraft XG3 used) I saw -37.6dbm at RF2.
