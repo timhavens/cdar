@@ -9,7 +9,7 @@ There is an error on this schematic that is yet to be updated.  There are some m
 
 = Details =
 
-[http://cdar.googlecode.com/files/PIN_DRIVER_EX_2.jpg]
+[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_DRIVER_v2.jpg]
 
 = Prototype =
 
