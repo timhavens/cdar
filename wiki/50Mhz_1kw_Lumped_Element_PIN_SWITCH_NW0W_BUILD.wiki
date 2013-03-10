@@ -17,7 +17,17 @@ Steps Taken To recreate the Design [https://cdar.googlecode.com/files/50Mhz_1kw_
       [http://cdar.googlecode.com/files/tr_coil_side_view.jpg]
       [http://cdar.googlecode.com/files/tr_coils.jpg]
   * I'm currently held up waiting for a slow Ebayer to mail my FR4 copper clad PCB's.  However as of 2013-03-04 I got notice that his back orders are starting to ship.  (tried to save a few bucks here, and it bit me in the ass this time).  Anyway, I should be back on the build of this board very soon.
-  * 2013-03-09 through 03-10 I finally got the FR4 Boards and started the build in earnest.  Here is what I've got so far
+  * 2013-03-09 through 03-10 I finally got the FR4 Boards and started the build in earnest.  Here is what I've got so far.
+  * I still need to:
+    * create and attach L13, L14.
+    * attach TX to X1
+    * attach ANT to X2
+    * Tap L6 for RX
+    * attach X3 SMA port
+    * attach RX to X3
+    * complete power run for -15/+15v @ 1A.
+    * and probably a few other items like the a missing 27pf 1kv cap (I ran out, and had to order more)
+
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%281%29.jpg]
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%282%29.jpg]
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%283%29.jpg]
