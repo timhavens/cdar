@@ -6,7 +6,7 @@ Pin Switch Driver (example)
 
 = Details =
 
-[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_DRIVER_v2.jpg]
+[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_DRIVER_v2_2.jpg]
 
 = Prototype =
 
