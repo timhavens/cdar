@@ -34,8 +34,8 @@ This schematic mentions UM9145 these are actually *UM9415* PIN's
     * Easily able to support 1kw
     * *these are WELL WITHIN the requirements we set out to have!*
 
-[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH_v2.jpg]
-  * [https://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH_v2.jpg Full sized Schematic]
+[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH_v2_4.jpg]
+  * [https://cdar.googlecode.com/files/50Mhz_1kw_PIN_SWITCH_v2_4.jpg Full sized Schematic]
   * [http://cdar.googlecode.com/files/VK3OE_PROTOTYPE_50Mhz_1kw_PIN_SWITCH.jpg VK3OE Early Prototype]
   * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH_NW0W_BUILD NW0W Build Details]
 
