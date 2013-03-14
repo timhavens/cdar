@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+This 3A Dual Channel -/+ 15vdc supply will be used to drive the HP TR Pin switch, via the TR Pin Driver.
 
 = Details =
 
