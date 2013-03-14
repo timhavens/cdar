@@ -11,3 +11,8 @@ HP 62215E Linear Power Supply w/voltage adjust
   * Input 104-127VAC, 57-63 Hz, 300VA max
   * Tested with electronic load. DMM shows AC RMS mV ripple.
   * 12"L X 4"W X 5"H 
+
+[https://cdar.googlecode.com/files/HP_62215E_1.jpg]
+[https://cdar.googlecode.com/files/HP_62215E_2.jpg]
+[https://cdar.googlecode.com/files/HP_62215E_3.jpg]
+[https://cdar.googlecode.com/files/HP_62215E_4.jpg]
