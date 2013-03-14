@@ -23,6 +23,10 @@ This area will describe the Hermes SDR Setup being used @ NW0W for "CDAR"
 
   * [https://code.google.com/p/cdar/wiki/LowPowerPinSwitchTTL Hermes Testing]
 
+== Heatsinks ==
+
+ * [https://code.google.com/p/cdar/wiki/HermesHeatsink Hermes With Heatsinks]
+
 == TBD ==
 
   * How to get PTT out
