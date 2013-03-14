@@ -17,6 +17,7 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
   * Can Handle 500W Average (1 sec ON @500W, 1 sec OFF)
   * Can Handle Billions of cycles *(this eliminates virtually all NON-PIN Diode switches 1yr = 31.5M sec)*
   * Can be easily reproduced by other Hams and used for other projects as well.
+  * 2A +/- 15vdc (dual output) Supply min. [https://code.google.com/p/cdar/wiki/HP_62215E HP 62215E will be used] and provides up to 3A! (cheap on Ebay!)
 
 =NOTE=
 This schematic mentions UM9145 these are actually *UM9415* PIN's
