@@ -1,0 +1,13 @@
+#HP 62215E Linear Power Supply w/voltage adjust
+
+= Introduction =
+
+Add your content here.
+
+= Details =
+
+HP 62215E Linear Power Supply w/voltage adjust
+  * Dual output +15VDC and -15VDC +/-5% @ 3A or single output 30VDC.
+  * Input 104-127VAC, 57-63 Hz, 300VA max
+  * Tested with electronic load. DMM shows AC RMS mV ripple.
+  * 12"L X 4"W X 5"H 
