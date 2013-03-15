@@ -16,3 +16,8 @@ Based on the size of the heat-sinks employed, the wind-tunnel used, and the use 
 = Details =
 
 As of 2013-03-15 I am currently working on this area of construction.  I will be posting photo's of the results shortly and they will appear here.  As well as other areas within the SDR Bay enclosure.
+
+= Images =
+
+[https://cdar.googlecode.com/files/sdrbay_hermes_1.jpg]
+[https://cdar.googlecode.com/files/sdrbay_hermes_2.jpg]
