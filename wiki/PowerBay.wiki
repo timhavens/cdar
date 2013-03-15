@@ -1,13 +1,18 @@
-#summary One-sentence summary of this page.
+#AC/DC Power Bay
 
 = Introduction =
 
-Add your content here.
+This 19" Rack will include ALL power sources.  It has already been purchased, however we may need to have two of them before it's all said and done.
 
+The +50vdc Meanwell supply, and the +-15vdc HP supply are fairly large, and may require a single enclosure just for them.
+
+While the +28vdc, +12vdc, and +5vdc are fairly small.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This enclosure will include:
+  * +50vdc @32A, 220vac to power the 900w Pallet amp.
+  * +28vdc @1A, 120vac to power the small Booster amp.
+  * +-15vdc @3A, 120vac to power the High Power TR PIN Switch.
+  * +12vdc @8A, 120vac for Hermes and other items.
+  * +5vdc @1A, DCDC converter for Hermes and other items (TTL and such)
