@@ -1,13 +1,17 @@
-#summary One-sentence summary of this page.
+#RF amplifier Bay
 
 = Introduction =
 
-Add your content here.
+The RF amplifier Bay will include:
+
+  * 900 watt High Power Pallet amp, and large heat-sink.
+  * A small Booster Amp to drive the High power amp.
+  * 1kw PIN T/R Switch
+  * 1kw Pin T/R Switch "Driver" (low power actuated, output +-15VDC @ 1A per PIN)
+    * this will also include two TX-Inhibit Lines which can be voltage-checked to ensure the TR has successfully switched.  (Safety).
+  * High Power LPF (lo pass filter, K1WHS design)
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+More details will come on this once the amp, and booster and 19" rack enclosure have been purchased.  This will be one of the last areas in hardware to be purchased and constructed for this project.
