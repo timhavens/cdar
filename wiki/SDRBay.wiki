@@ -1,13 +1,16 @@
-#summary One-sentence summary of this page.
+#SDR Bay
 
 = Introduction =
 
-Add your content here.
+The "SDR Bay" will contain a small 'wind tunnel' for the Hermes SDR with an aluminium housing containing the Hermes Board.  A large 1.25" tall finned heatsink on top, and a smaller .5" heat-sink below, with the Hermes board mounted in the middle of the aluminium housing.
+
+Hermes generates a small amount of heat which transfers to the aluminium housing, and the heat-sinks will help to dissipate this heat.
+
+The "wind tunnel" is created by placing a FR4 board mounted vertically in the Hammond 19" rack enclosure, with several feed-thru items like sma ports for TX and RX lines.  There will be 2 each 50mm 10CFM fans in the front of the 19" rack enclosure which wil pull air into the chamber, and 2 each 50mm 10CFM fans in the rear of the enclosure for exhaust.
+
+Based on the size of the heat-sinks employed, the wind-tunnel used, and the use of silver-infused heat-sink paste between the sinks and the aluminium housing this should help considerably to maintain a reasonably low temperature for the Hermes board.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+As of 2013-03-15 I am currently working on this area of construction.  I will be posting photo's of the results shortly and they will appear here.  As well as other areas within the SDR Bay enclosure.
