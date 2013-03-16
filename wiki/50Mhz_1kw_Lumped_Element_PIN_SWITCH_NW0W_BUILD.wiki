@@ -16,6 +16,9 @@ Steps Taken To recreate the Design [https://cdar.googlecode.com/files/50Mhz_1kw_
     * Final product of the coils should look something like this.
       [http://cdar.googlecode.com/files/tr_coil_side_view.jpg]
       [http://cdar.googlecode.com/files/tr_coils.jpg]
+      [https://cdar.googlecode.com/files/50Mhz_Self_Res_L13_L14_1.jpg]
+      [https://cdar.googlecode.com/files/50Mhz_Self_Res_L13_L14_2.jpg]
+      [https://cdar.googlecode.com/files/50Mhz_Self_Res_L13_L14_3.jpg]
   * I'm currently held up waiting for a slow Ebayer to mail my FR4 copper clad PCB's.  However as of 2013-03-04 I got notice that his back orders are starting to ship.  (tried to save a few bucks here, and it bit me in the ass this time).  Anyway, I should be back on the build of this board very soon.
   * 2013-03-09 through 03-10 I finally got the FR4 Boards and started the build in earnest.  Here is what I've got so far.
   * I still need to:
