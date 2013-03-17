@@ -10,6 +10,12 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 
 [http://cdar.googlecode.com/files/50Mhz_LPF_K1WHS.jpg]
 
+= Images =
+
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_1.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_2.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_3.jpg]
+
 == PARTS LIST ==
 
 ||50pf 15kvdc 1.187" diameter, 1.89" long, 10-32 UNF thread.||SurplusSales||(CFC) HT570050-15||(CFC) HT570050-15||HEC||$42.00||2||$84.00||[http://www.surplussales.com/capacitors/Trans_Coup_Caps/cap_doorknob.html here]||
