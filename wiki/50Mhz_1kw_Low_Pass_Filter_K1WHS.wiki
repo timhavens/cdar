@@ -12,9 +12,12 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 
 = TODO =
 
-  * Attach N-connectors
-  * Re-position Caps to allow for Term. Lugs (photo's show they're too close as of 3/16)
+  * Attach 4-screw N-connectors (current ones SUCK shown in photo's)
   * Replace screws with SS (photo's show temp screws for mock up)
+
+= COMPLETED =
+
+  * Re-position Caps to allow for Term. Lugs (photo's show they're too close as of 3/16 - completed 3/17)
   * Test Low-Power
   * Test 1.5Kw
 
@@ -23,6 +26,10 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 [https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_1.jpg]
 [https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_2.jpg]
 [https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_3.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_4.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_5.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_6.jpg]
+[https://cdar.googlecode.com/files/K1WHS_50Mhz_LPF_7.jpg]
 
 == PARTS LIST ==
 
