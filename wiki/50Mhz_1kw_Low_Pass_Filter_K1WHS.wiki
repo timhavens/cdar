@@ -14,6 +14,7 @@ Normally I'd just slap an ICE 427 LPF on the end of a 50Mhz PA and be done.  How
 
   * Attach N-connectors
   * Re-position Caps to allow for Term. Lugs (photo's show they're too close as of 3/16)
+  * Replace screws with SS (photo's show temp screws for mock up)
   * Test Low-Power
   * Test 1.5Kw
 
