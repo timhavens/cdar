@@ -18,3 +18,4 @@ Pin Switch Driver (example)
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_1.jpg]
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_4.jpg]
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_5.jpg]
+[https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_6.jpg]
