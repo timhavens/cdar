@@ -21,3 +21,18 @@ Pin Switch Driver (example)
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_6.jpg]
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_7.jpg]
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_8.jpg]
+
+= NOTES =
+
+  * So I just finished testing voltages.
+    * NOTE: I'm still missing the 2200pf caps for the Pin drivers.
+    * NOTE: I'm using a 110 Ohm, and a 382 Ohm in series to get close to 500 Ohm for J3 (on both of them)
+    * NOTE: I'm using 50 Ohm SMA jumper on D2, and 2-wire to D1 on the TR.
+
+  * So things look pretty close I think.
+    * J1 (ON) "transmit" 
+      * J3 (TX) = +0.06 "OK"
+    * J1 (OFF) "receive"
+      * J3 (RX) = -0.48v
+    * Fault = +0.71v (like disconnecting line to the PIN diode, on TX)
+    * PIN Voltages on TX = +1.011v (D1), +0.930v (D2)
