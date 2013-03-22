@@ -20,3 +20,7 @@ This enclosure will include:
   * +5vdc @1A, DCDC converter for Hermes and other items (TTL and such)
 
 = Images =
+
+[https://cdar.googlecode.com/files/pwrbay_1.jpg]
+[https://cdar.googlecode.com/files/pwrbay_2.jpg]
+[https://cdar.googlecode.com/files/pwrbay_4.jpg]
