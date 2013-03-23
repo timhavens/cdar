@@ -24,3 +24,4 @@ This enclosure will include:
 [https://cdar.googlecode.com/files/pwrbay_1.jpg]
 [https://cdar.googlecode.com/files/pwrbay_2.jpg]
 [https://cdar.googlecode.com/files/pwrbay_4.jpg]
+[https://cdar.googlecode.com/files/pwrbay_5.png]
