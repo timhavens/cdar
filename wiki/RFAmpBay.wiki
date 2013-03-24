@@ -8,7 +8,7 @@ The RF amplifier Bay will include:
 
   * 900 watt High Power Pallet amp, and large heat-sink.
   * A small Booster Amp to drive the High power amp.
-  * 1kw PIN T/R Switch
+  * [https://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH 1kw PIN T/R Switch] and [ here]
   * [https://code.google.com/p/cdar/wiki/PIN_SWITCH_DRIVER 1kw Pin T/R Switch] "Driver" (low power actuated, output +-15VDC @ 1A per PIN)
     * this will also include two TX-Inhibit Lines which can be voltage-checked to ensure the TR has successfully switched.  (Safety).
   * [https://code.google.com/p/cdar/wiki/50Mhz_1kw_Low_Pass_Filter_K1WHS High Power LPF] (lo pass filter, K1WHS design)
