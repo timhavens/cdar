@@ -7,6 +7,10 @@
 
 This project explores various methods, hardware, and software in order to track maximum usable frequency as it approaches and/or exceeds 50 Mhz.  Specifically discovery of propagated paths at 50 Mhz.  The main method being that of "Chirp Radar".
 
+= TEST RESULTS VIDEO'S =
+
+<wiki:video url="http://www.youtube.com/watch?v=4aJf9nT58PM&list=UUcJGetChgXfOjN60_Opw9hg"/>
+
 = Desired End Result =
 
 == PASSIVE == 
