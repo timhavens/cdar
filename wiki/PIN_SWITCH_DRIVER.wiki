@@ -22,6 +22,14 @@ Pin Switch Driver (example)
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_7.jpg]
 [https://cdar.googlecode.com/files/vk3oe_15vdc_ping_driver_8.jpg]
 
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2811%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2812%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2813%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2814%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2815%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2816%29.jpg]
+[https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2817%29.jpg]
+
 = NOTES =
 
   * So I just finished testing voltages.
@@ -31,8 +39,8 @@ Pin Switch Driver (example)
 
   * So things look pretty close I think.
     * J1 (ON) "transmit" 
-      * J3 (TX) = +0.06 "OK"
+      * J3 (TX) = +0.08 "OK"
     * J1 (OFF) "receive"
-      * J3 (RX) = -0.48v
-    * Fault = +0.71v (like disconnecting line to the PIN diode, on TX)
+      * J3 (RX) = -0.000
+    * Fault = +0.48 to 0.5v (like disconnecting line to the PIN diode, on TX)
     * PIN Voltages on TX = +1.011v (D1), +0.930v (D2)
