@@ -26,8 +26,11 @@ Pin Switch Driver (example)
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2812%29.jpg]
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2813%29.jpg]
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2814%29.jpg]
+==transmit fault==
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2815%29.jpg]
+==transmit ok==
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2816%29.jpg]
+==receive ok==
 [https://cdar.googlecode.com/files/high_power_50Mhz_tr_switch_testing%20%2817%29.jpg]
 
 = NOTES =
