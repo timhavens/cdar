@@ -32,6 +32,13 @@ Steps Taken To recreate the Design [https://cdar.googlecode.com/files/50Mhz_1kw_
     * complete power run for -15/+15v @ 1A.
     * and probably a few other items like the a missing 27pf 1kv cap (I ran out, and had to order more)
 
+== Current ==
+[https://cdar.googlecode.com/files/hp_tr_ant_to_rx_port_swr_adj.jpg]
+[https://cdar.googlecode.com/files/hp_tr_ant_to_rx_port_swr_adj_1.jpg]
+[https://cdar.googlecode.com/files/hp_tr_ant_to_rx_port_swr_adj_2.jpg]
+[https://cdar.googlecode.com/files/hp_tr_ant_to_rx_port_swr_adj_3.jpg]
+
+== Start to Current ==
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%281%29.jpg]
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%282%29.jpg]
 [https://cdar.googlecode.com/files/nw0w_build_vk3oe_1kw_pin_tr_switch_%20%283%29.jpg]
