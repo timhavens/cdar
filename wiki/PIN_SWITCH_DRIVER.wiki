@@ -9,7 +9,7 @@ Pin Switch Driver (example)
   * 2A +/- 15vdc (dual output) Supply min. [https://code.google.com/p/cdar/wiki/HP_62215E HP 62215E will be used] and provides up to 3A! (cheap on Ebay!)
   * VK3OE designed a nice, simple Pin Driver that even includes a TX-Inhibit Line which can be used to check that the HP Switches *are switched*
 
-[https://cdar.googlecode.com/files/50Mhz_1kw_PIN_DRIVER_v2_5.jpg]
+[https://cdar.googlecode.com/files/PIN_DRIVER_v2.6.jpg]
 
 = NW0W Prototype =
 
