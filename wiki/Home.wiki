@@ -11,6 +11,7 @@ This project explores various methods, hardware, and software in order to track 
 
 <wiki:video url="http://www.youtube.com/watch?v=4aJf9nT58PM&list=UUcJGetChgXfOjN60_Opw9hg"/>
 
+[https://cdar.googlecode.com/files/pwrbay_sdrbay_pindvr_1kw_switch.jpg]
 = Desired End Result =
 
 == PASSIVE == 
