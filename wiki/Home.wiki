@@ -7,10 +7,6 @@
 
 This project explores various methods, hardware, and software in order to track maximum usable frequency as it approaches and/or exceeds 50 Mhz.  Specifically discovery of propagated paths at 50 Mhz.  The main method being that of "Chirp Radar".
 
-= TEST RESULTS VIDEO'S =
-
-<wiki:video url="http://www.youtube.com/watch?v=4aJf9nT58PM&list=UUcJGetChgXfOjN60_Opw9hg"/>
-
 [https://cdar.googlecode.com/files/pwrbay_sdrbay_pindvr_1kw_switch.jpg]
 = Desired End Result =
 
@@ -76,3 +72,7 @@ Inspired by VK3OE [http://cdar.googlecode.com/files/BistaticRadar.pdf Article] (
      * GNURadio [http://gnuradio.org/redmine/projects/gnuradio/wiki here]
      * *cuSDR* [http://svn.tapr.org/repos_sdr_hpsdr/trunk/DL3HVH/cuSDR64/ here]
      * CUDA [http://www.nvidia.com/object/cuda_home_new.html here] *and* [http://www.nvidia.com/content/cuda/spotlights/brian-fanous-mathworks.html here]
+
+= TEST RESULTS VIDEO'S =
+
+<wiki:video url="http://www.youtube.com/watch?v=4aJf9nT58PM&list=UUcJGetChgXfOjN60_Opw9hg"/>
