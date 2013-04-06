@@ -19,6 +19,9 @@ This design is a bit of a hybrid between an old TR Radar Switch from NOAA, and a
   * Can be easily reproduced by other Hams and used for other projects as well.
   * 2A +/- 15vdc (dual output) Supply min. [https://code.google.com/p/cdar/wiki/HP_62215E HP 62215E will be used] and provides up to 3A! (cheap on Ebay!)
 
+[https://cdar.googlecode.com/files/tx_rx_isolation_1kw_pin_switch.jpg]
+[https://cdar.googlecode.com/files/tx_rx_isolation_1kw_pin_switch_and%20ZX80_OFF.jpg]
+
 =NOTE=
 This schematic mentions UM9145 these are actually *UM9415* PIN's
 
