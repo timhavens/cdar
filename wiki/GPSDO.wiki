@@ -1,0 +1,21 @@
+#GPSDO and Hermes
+
+= Introduction =
+
+*"Why would I want a GPS connected to a radio?"* you might be asking yourself.  GPS can be used for MANY things, no just global positioning, and tracking where you are on Earth.  There is also the ability to use the GPS clocks as a local *stable* 10Mhz oscillator frequency source.  
+
+  * This means that the radio can be spot on frequency every time.
+  * It also means that we transmit and receive echo's of transmissions that are 'timestamped' which can help to verify how long the transmitted chirp takes to echo return to the receiver.
+  * It also means that if other people are listening for echos on the same frequency that they can be positive that they're logging an ECHO and not the original transmission.
+  * It also means that if other people are listening they will know exactly *WHEN* to listen, and even 'blank' the original transmission and only hear ECHOs!
+
+= Details =
+
+I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs" named "Fury".  
+
+[image]
+
+Ant a GPS timing antenna made by "PCTEL" named "GPS-TMG-26N GPS 26dB Gain Antenna" this comes with a 50 Ohm N connector built in, as well as an onboard LNA for "L1" frequencies.  It will be mounted at about 10 feet above ground about 25 feet of LMR400 will be used to bring the signal into the GPS.
+
+[image1]
+[image2]
