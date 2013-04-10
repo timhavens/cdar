@@ -17,5 +17,5 @@ I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs"
 
 Ant a GPS timing antenna made by "PCTEL" named "GPS-TMG-26N GPS 26dB Gain Antenna" this comes with a 50 Ohm N connector built in, as well as an onboard LNA for "L1" frequencies.  It will be mounted at about 10 feet above ground about 25 feet of LMR400 will be used to bring the signal into the GPS.
 
-[image1]
-[image2]
+[https://cdar.googlecode.com/files/pctel_antenna_1.jpg]
+[https://cdar.googlecode.com/files/pctel_antenna_2.jpg]
