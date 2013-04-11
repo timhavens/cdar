@@ -37,5 +37,12 @@ This will serve as a general 'wish-list' of software items for this project.
     * callsign
     * lat/long
     * UTC timestamp (of the data report being made by the client)
-    * echo report data
+    * 'echo report' data from the client software
+  * Mapping 
+    * Echo data (showing hot-spots 'backscatter zones)
+    * Locations of all stations (CDAR Chirp Transmitter(s), Echo Reception Stations)
+      * callsign
+      * lat/long and Maidenhead Grid
+      * last report received UTC timestamp
+
  
