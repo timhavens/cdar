@@ -7,6 +7,7 @@ This will serve as a general 'wish-list' of software items for this project.
 
 = Details =
 
+== Settings ==
   * monostatic mode
   * varying the audio frequency ramp
   * varying the bandwidth of the chirp from 3Khz up to 100Khz
@@ -14,13 +15,12 @@ This will serve as a general 'wish-list' of software items for this project.
   * varying the timing of the RX period from 1ms tp 300ms
   * checking the condition of a user defined J16 pin for TX-INHIBIT (both J3 status voltages from the TR)
 
+== Abilities ==
   * ability to CWID
   * ability to beacon
   * ability to determine exact lat/long via GPSDO device
-
   * ability to display results in km and miles
   * ability to display green-heron Azimuth and status
-
   * ability to relay data gathered back to a central web-service
 
 == Web Service ==
