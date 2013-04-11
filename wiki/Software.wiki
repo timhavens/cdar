@@ -27,4 +27,9 @@ This will serve as a general 'wish-list' of software items for this project.
 
   * api to accept relayed data from clients
   * ability to display results gathered on real-time web page for all to see
+  * api should require as input from the client (for each data set sent) as a minimum:
+    * callsign
+    * lat/long
+    * UTC timestamp (of the data report being made by the client)
+    * echo report data
  
