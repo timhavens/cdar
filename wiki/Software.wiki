@@ -17,6 +17,8 @@ This will serve as a general 'wish-list' of software items for this project.
     * this may require FPGA code changes, or may just be something we need to check the status of if it already exists in the current FPGA code (it may just be a status check)
 
 == Abilities ==
+  * Large Status "Lamp/Button" (Gray when OFF, Green in RX mode, Red in TX mode)
+    * Clicking this button will stop all activity (used as a panic button, in case something goes wrong)
   * Display Modes
     * FFTW water fall Mode
     * Panadapter Display Mode
