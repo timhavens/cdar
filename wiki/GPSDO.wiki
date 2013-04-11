@@ -11,7 +11,7 @@
 
 = Details =
 
-I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs" named "Fury".  
+I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs" named "Fury".  I got this one slightly used on Ebay for $350.00 USD.  These run about 2x that direct from the OEM.  
 
 [https://cdar.googlecode.com/files/jackson_labs_fury.jpg]
 
