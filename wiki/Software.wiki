@@ -16,6 +16,7 @@ This will serve as a general 'wish-list' of software items for this project.
 
   * ability to CWID
   * ability to beacon
+  * ability to determine exact lat/long via GPSDO device
 
   * ability to display results in km and miles
   * ability to display green-heron Azimuth and status
