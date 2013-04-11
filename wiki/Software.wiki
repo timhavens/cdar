@@ -20,6 +20,8 @@ This will serve as a general 'wish-list' of software items for this project.
 
 == Abilities ==
   * Support for LSB, USB, CW 
+  * Effective Noise Blankers  (two levels NB, NB2, variable) optimized to allow Chirps
+  * Effective Noise Reduction optimized to allow Chirps
   * Large Status "Lamp/Button" (Gray when OFF, Green in RX mode, Red in TX mode)
     * Clicking this button will stop all activity (used as a panic button, in case something goes wrong)
   * Display Modes
