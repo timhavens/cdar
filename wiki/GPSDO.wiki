@@ -9,7 +9,10 @@
   * It also means that if other people are listening for echos on the same frequency that they can be positive that they're logging an ECHO and not the original transmission.
   * It also means that if other people are listening they will know exactly *WHEN* to listen, and even 'blank' the original transmission and only hear ECHOs!
 
-== GPScon For use with Jackson-Labs "Fury" ==
+== Software for use with Jackson-Labs "Fury" ==
+
+[http://www.realhamradio.com/gpscon-info.htm GPScon]
+[http://www.jackson-labs.com/assets/uploads/main/flash_isp_utility_lpc2000(1).zip Firmware Updater]
 
 == Jackson-Labs "Fury" GPSDO ==
 
