@@ -51,4 +51,8 @@ This will serve as a general 'wish-list' of software items for this project.
       * lat/long and Maidenhead Grid
       * last report received UTC timestamp
 
- 
+== Images ==
+
+[https://cdar.googlecode.com/files/kk_cdar_demo_setup_box.jpg]
+
+== Videos ==
