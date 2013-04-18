@@ -2,10 +2,10 @@
 
 = Introduction =
 
-*"Why would I want a GPS connected to a radio?"* you might be asking yourself.  GPS can be used for MANY things, no just global positioning, and tracking where you are on Earth.  There is also the ability to use the GPS clocks as a local *stable* 10Mhz oscillator frequency source.  
+*"Why would I want a GPS connected to a radio?"* you might be asking yourself.  GPS can be used for MANY things, not simply global positioning, and tracking where you are on Earth.  There is also the ability to use the GPS clocks as a local *stable* 10Mhz oscillator frequency source.  
 
   * This means that the radio can be spot on frequency every time.
-  * It also means that we transmit and receive echo's of transmissions that are 'timestamped' which can help to verify how long the transmitted chirp takes to echo return to the receiver.
+  * It also means that we transmit and receive echo's of transmissions that are 'timestamped' which can help to verify how long the transmitted chirp takes to echo return to the receiver.  This is a requirement for accurate "bistatic radar echo timing" used in determining the distance to the reflection point of the echo.
   * It also means that if other people are listening for echos on the same frequency that they can be positive that they're logging an ECHO and not the original transmission.
   * It also means that if other people are listening they will know exactly *WHEN* to listen, and even 'blank' the original transmission and only hear ECHOs!
 
