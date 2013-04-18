@@ -15,7 +15,7 @@ I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs"
 
 [https://cdar.googlecode.com/files/Fury_user_manual.pdf Fury User Manual]
 
-*note:* This GPS came with v1.18 Firmare installed.  On 4/18/2013 I upgraded it to v.1.22
+*note:* This GPS came with v1.18 Firmare installed.  On 4/18/2013 I upgraded it to v1.22
 
 [https://cdar.googlecode.com/files/gpsdo_fury_1.jpg]
 [https://cdar.googlecode.com/files/gpsdo_fury_2.jpg]
