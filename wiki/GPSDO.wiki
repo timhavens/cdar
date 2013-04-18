@@ -11,9 +11,8 @@
 
 == Software for use with Jackson-Labs "Fury" ==
 
-[http://www.realhamradio.com/gpscon-info.htm GPScon]
-
-[http://www.jackson-labs.com/assets/uploads/main/flash_isp_utility_lpc2000(1).zip Firmware Updater]
+  * [http://www.realhamradio.com/gpscon-info.htm GPScon]
+  * [http://www.jackson-labs.com/assets/uploads/main/flash_isp_utility_lpc2000(1).zip Firmware Updater]
 
 == Jackson-Labs "Fury" GPSDO ==
 
