@@ -9,7 +9,9 @@
   * It also means that if other people are listening for echos on the same frequency that they can be positive that they're logging an ECHO and not the original transmission.
   * It also means that if other people are listening they will know exactly *WHEN* to listen, and even 'blank' the original transmission and only hear ECHOs!
 
-== Jackson-Lab "Fury" GPSDO ==
+== GPScon For use with Jackson-Labs "Fury" ==
+
+== Jackson-Labs "Fury" GPSDO ==
 
 I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs" named "Fury".  I got this one ("only powered up once" by the seller) on Ebay for $380.00 USD plus $15 for shipping.  These run about 2x that direct from the OEM.  
 
