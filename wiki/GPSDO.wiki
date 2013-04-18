@@ -16,7 +16,6 @@ I decided to use a fairly expensive very well known GPSDO made by "Jackson Labs"
 [https://cdar.googlecode.com/files/gpsdo_fury_1.jpg]
 [https://cdar.googlecode.com/files/gpsdo_fury_2.jpg]
 [https://cdar.googlecode.com/files/gpsdo_fury_3.jpg]
-[https://cdar.googlecode.com/files/jackson_labs_fury.jpg]
 
 == PCTEL - GPS-TMG-26N GPS 26dB Gain Antenna ==
 
