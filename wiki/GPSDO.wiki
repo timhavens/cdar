@@ -23,7 +23,7 @@ Ant a GPS timing antenna made by "PCTEL" named "*GPS-TMG-26N* GPS 26dB Gain Ante
 
 I purchased this on Ebay for around $60 USD.
 
-[PDF File - Specification]
+[https://cdar.googlecode.com/files/GPS-TMG-26N_Antenna.pdf PDF File - Specification]
 
 [https://cdar.googlecode.com/files/pctel_antenna_1.jpg]
 [https://cdar.googlecode.com/files/pctel_antenna_2.jpg]
