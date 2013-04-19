@@ -5,6 +5,9 @@
 
 SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
+= Status =
+
+  * 2013-04-19 Most of the other equipment is now purchased, and built.  The Amp is the last of the big dollar items (although the price is very reasonable)!  I intend to order and build/install the amp the first weeks in May.
 
 = Details =
 
