@@ -7,7 +7,7 @@ This will serve as a general 'wish-list' of software items for this project.
 = Details =
 
 == Settings ==
-  * monostatic mode / bistatic mode / bistatic reception station mode
+  * monostatic mode (tx/rx) / bistatic mode (tx _or_ rx Only)
   * varying the audio frequency ramp
   * varying the bandwidth of the chirp from 3Khz up to 100Khz
   * varying the timing of the chirp from 1ms to 30ms
