@@ -11,6 +11,16 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
 = Details =
 
+== Related Items ==
+
+  * *Low Pass Filter*
+    * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Low_Pass_Filter_K1WHS 50Mhz LPF]
+
+  * *T/R Switches*
+    * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH 50Mhz 1kw Pin Switch]
+
+== Some External Links of Interest ==
+
   * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/FM-Pallet-Drivers?product_id=158 Booster Amp 400mw pIN / 15W pOUT] (would require some tuning down)
   * [http://www.broadcastconcepts.com/TV-Amplifier/TV-Amplifiers-55-88MHz%20-LO-VHF/55-88MHz%2012W%20Band%20I%20VHF%20TV%20Driver Booster Amp 0dbm (1mw) pIN / 12W pOUT] (would require 26dbm pad)
   * [http://www.broadcastconcepts.com BC -  Pallet Amps]
@@ -21,12 +31,6 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
   * [http://www.winfordeng.com/products/cat_brk.php Winford Eng]
   * [http://www.nxp.com/documents/data_sheet/BLF578.pdf NXP BLF578]
   * [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/BLF178XR%20900W%20FM%20Pallet%20Amplifier BLF178XR]
-
-  * *Low Pass Filter*
-    * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Low_Pass_Filter_K1WHS 50Mhz LPF]
-
-  * *T/R Switches*
-    * [http://code.google.com/p/cdar/wiki/50Mhz_1kw_Lumped_Element_PIN_SWITCH 50Mhz 1kw Pin Switch]
 
   * *Tables* 
   * http://cdar.googlecode.com/files/dbm_to_watts_conv.jpg
