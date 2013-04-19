@@ -19,6 +19,10 @@ This will be mounted in a 19" x 10" Hammond Rack Mountable Enclosure.
 
 The PA Power Supply is small enough to fit in the "PowerBay" we already have, and installation of other system related PS's was done in order to accomodate [http://www.broadcastconcepts.com/DC-Power-Supplies-Pallet-Amps/MeanWell%201500W%2048V%20DC%20Power%20Supply this] 50v @ 32A supply.
 
+Apache-Labs "Hermes" power output appears to be around 380-400mW.  This should be adequate to drive this PA up to about 200+ Watts, which is on target with what we wanted to start with.
+
+At some point in the future we may add a small 'booster' amp to be able to drive the PA up to full rated (safe) power out.
+
 == Related Items ==
 
   * *Low Pass Filter*
