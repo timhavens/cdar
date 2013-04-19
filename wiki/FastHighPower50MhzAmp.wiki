@@ -11,6 +11,8 @@ SSHP 50Mhz Amp with VERY FAST T/R Switching (for pulsing)
 
 = Details =
 
+The amp we're going to use is a 900w (capable) with 2.2w INPUT, likely running only about 200-300w for this project normally.  [http://www.broadcastconcepts.com/FM-Amplifiers-30w-2kW/FM-Pallet-Amplifiers/BLF178XR%20900W%20FM%20Pallet%20Amplifier From Broadcast Concepts].
+
 == Related Items ==
 
   * *Low Pass Filter*
