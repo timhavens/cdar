@@ -7,6 +7,12 @@
 
 This project explores various methods, hardware, and software in order to track maximum usable frequency as it approaches and/or exceeds 50 Mhz.  Specifically discovery of propagated paths at 50 Mhz.  The main method being that of "Chirp Radar".
 
+[https://cdar.googlecode.com/files/cdar_system_rack_mounted%20%281%29.jpg]
+
+[https://cdar.googlecode.com/files/cdar_system_rack_mounted%20%282%29.jpg]
+
+[https://cdar.googlecode.com/files/cdar_system_rack_mounted%20%283%29.jpg]
+
 [https://cdar.googlecode.com/files/2013-04-07_work_completed_1.jpg]
 
 [https://cdar.googlecode.com/files/2013-04-07_work_completed_2.jpg]
