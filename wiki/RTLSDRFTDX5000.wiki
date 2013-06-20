@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#RTL-SDR USB used as an SDR to HDSDR for FTDX-5000
 
 = Introduction =
 
