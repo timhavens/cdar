@@ -1,0 +1,61 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Today I decided to try something new.  This took a total of about 45 minutes from start to finish, with no outside directions on how to do it.  SO it's not that difficult.
+
+I operate nearly 100% on 50Mhz.  My radio is a Yaesu FTDX-5000.  For a few years I've been using something called LP-PAN to provide a decent pan-adapter for my radio.  This has worked fine for a few years, but there are some tech issues with this setup.  Most are known short-comings of using a sound-card to pass I/Q to your computer.  I won't go into those details at this point (maybe some other time).  
+
+What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
+
+I'll outline how I set this up, along with some images to help you orient yourself, and in the end provide details on another option I'm working on as well.
+
+This setup is very simple but has many steps.
+
+You will be using the ports between RX-IN and RX-OUT.  
+
+This also means you'll want to turn on your RX in/out switch on the FTDX-5000.
+
+I have a short jumper between RX-OUT and a PR6 preamp, and RX-IN.  You won't need the preamp I don't think.  I use this for receive on 6m.  But it is added gain that both the RTL dongle, and the Rcvr will see if you set yours up like this.  
+
+If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
+
+= Details =
+
+Hardware Setup:
+
+RX-in/out Loop image HERE
+
+RTL line image HERE
+
+RTL Dongle image HERE
+
+-----------------------------------------------------------------------
+
+Install your R820T chipset RTL USB "dongle" in a USB2.0 or faster port
+
+Connect a MCX to SMA (or BNC) jumper to your RTL Dongle. MCX end goes to the dongle, the other end goes to either your Tee or your Preamp hanging off the Tee.
+
+You will also want to have a serial port available to control your FTDX-5000.  This way when you click on a signal in the HDSDR program, your radio will QSY there and inversely if you tune the radio the HDSDR will sync with your radio's VFO.
+
+Software Setup:
+
+Download the following two bits of software:
+  * HDSDR: http://www.hdsdr.de/
+  * ExtIO_RTL: https://github.com/josemariaaraujo/ExtIO_RTL/blob/master/Release/ExtIO_RTL.dll
+
+Install HDSDR (just install it at this point more to come on this later)
+
+Place the ExtIO-RTL.dll in the directory where you just installed HDSDR.
+
+Now start HDSDR.
+
+Click on ExtIO you should see something like this:
+
+initially configure yours to appear like this image shows.
+
+click on the 'x' and exit that screen.
+
+Now click on "Options" (lower left of HDSDR)
+
+Now click on soundcard, and configure your 
