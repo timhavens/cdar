@@ -32,7 +32,7 @@ In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 thi
 
 = Details =
 
-Hardware Setup:
+==Hardware Setup:==
 
 RX-in/out Loop image HERE
 https://cdar.googlecode.com/files/20130620_172429%20%281%29.jpg
@@ -53,7 +53,7 @@ Connect a MCX to SMA (or BNC) jumper to your RTL Dongle. MCX end goes to the don
 
 You will also want to have a serial port available to control your FTDX-5000.  This way when you click on a signal in the HDSDR program, your radio will QSY there and inversely if you tune the radio the HDSDR will sync with your radio's VFO.
 
-Software Setup:
+==Software Setup:==
 
 Download the following two bits of software:
   * HDSDR: http://www.hdsdr.de/
