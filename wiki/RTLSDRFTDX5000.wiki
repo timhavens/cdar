@@ -74,7 +74,23 @@ Now Click on 'Bandwidth' This brings up a small window with two columns on the r
 
 https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%289%29.jpg
 
-Now click on 'Options' > 'Select Visualizations' > 'RF Spectrum Type'.
+Now click on 'Options' > 'Visualizations' > 'RF Spectrum Type'.
 There are two options here 'Amplitude Spectrum' and 'Power Spectral Density' The default is 'Amplitude Spectrum'.  That's what I'm currently using but I've tried both in varying conditions, and depending on how the band is at the moment one may display better than the other.
 
 https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%2811%29.jpg
+
+Now click on 'Options' > 'Visualizations' > 'FFT Windowing' I'm sure this are will bring a fair amount of debate for those who are experienced SDR users.  The short story is that I choose to use 'Hamming' or 'Blackman' here.  TRY them and see which of the available options works best for you once you have things running.
+
+Now click on 'Options' > 'Visualizations' once again (yes clicking on options is a pain in the butt when you have to set all these items up one at a time like this).
+
+In the image above make sure you have the items that are selected at this level 'selected/checked'.
+
+Now click on 'Options' > 'Input Channel Mode for RX'
+
+Now click on 'Options' > 'Output Channel Mode for RX'
+
+Now click on 'Options' > 'Input Channel Calibration for RX'
+
+
+
+Now click on 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.
