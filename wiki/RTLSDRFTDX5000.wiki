@@ -60,6 +60,8 @@ https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%286%29.jpg
   * Initially configure yours to appear like this image shows.
   * click on the 'x' and exit that screen.
 
-Now click on "Options" (lower left of HDSDR)
+Now click on "Options" (lower left of HDSDR) > "Select Input" and just verify that "RealTek" is checked See image below.
 
-Now click on soundcard, and configure your 
+https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%2810%29.jpg
+
+Now click on soundcard, and configure your sound card.
