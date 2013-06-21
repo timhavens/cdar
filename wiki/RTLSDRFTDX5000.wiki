@@ -12,6 +12,8 @@ What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T
 
 I'll outline how I set this up, along with some images to help you orient yourself, and in the end provide details on another option I'm working on as well.
 
+*This isn't an all inclusive manual.*  It's a starting point.  You may need to alter some of the configurations to suit your taste and or requirements.
+
 This setup is very simple but has many steps.
 
 You will be using the ports between RX-IN and RX-OUT.  
