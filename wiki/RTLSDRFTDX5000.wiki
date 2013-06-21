@@ -108,4 +108,12 @@ Click 'Options' > 'Misc Options'
 Select 'Tune Fixed to LO'
 If you have a fast computer also select 'High Process Priority'
 
-Click 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.
+Click 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.  (if it is selected LSB will be swapped with USB)
+
+Click 'Options' > 'RF Front-End + Calibration'
+(This area is simple yet complicated if you don't understand what's going on) at this point you'll need some accurate signal source on 28Mhz or 50Mhz.  I used a small XG3 from Elecraft seen in one of the photo's above.  This generates a signal on 50.097 Mhz so that I was able to quickly get through this section.
+  * First select 'SDR hardware connected to antenna (default)'
+  * On the right side of this window is 'LO frequency calibration'
+    * Click 'Start' on the main window and you should see the display functioning at this point.
+  * Locate your signal source on the display, it shouldn't be too far off.  If you have to zoom in/out to get within 200Khz do that, this might help you find the carrier.
+  * Once you've located the carrier you will need to enter the 'correct Tune Frequency [Hz] and click 'Calculate' this will set a Frequency Correction in ppm (parts per million).  You may have to do this quite a few times.  If you see the carrier on your screen moving in the right direction continue by entering a new 'Correct Tune Frequency' until you get the carrier to display exactly on frequency.  BETWEEN each attempt you will want to click 'Reset' before you enter a new 'Correct Tune Frequency' and then 'Calculate'.  Once you are on the carrier and it shows up on you screen to your satisfaction click on 'OK'.
