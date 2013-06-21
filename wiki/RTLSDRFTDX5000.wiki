@@ -22,14 +22,13 @@ You will be using the ports between RX-IN and RX-OUT.
 
 This also means you'll want to turn on your RX in/out switch on the FTDX-5000.
 
-This method on the FTDX-5000 radio should cover 24Mhz to 60Mhz.  Since 24Mhz is the lowest the RTL dongle covers.
+This method on the FTDX-5000 radio should cover 24Mhz to 60Mhz.  Since 24Mhz is the lowest the RTL dongle covers.  
+
+There is another option rather than using RX-in/out you could use your IF OUT if your radio has this.  In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 this is about 9Mhz.  Since the RTL dongles don't cover 9Mhz (>= 24Mhz only) you can purchase from http://nooelec.com something called a 'Ham it UP converter' for about $43.  This upconverts from HF to 125Mhz.  The setup for this is very different than what I'm describing here.  I'll cover that in another wiki page when mine arrives (its due in any day now).
 
 I have a short jumper between RX-OUT and a PR6 preamp, and RX-IN.  You won't need the preamp I don't think.  I use this for receive on 6m.  But it is added gain that both the RTL dongle, and the Rcvr will see if you set yours up like this.  
 
 If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
-
-There is another option rather than using RX-in/out you could use your IF OUT if your radio has this.
-In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 this is about 9Mhz.  Since the RTL dongles don't cover 9Mhz (>= 24Mhz only) you can purchase from http://nooelec.com something called a 'Ham it UP converter' for about $43.  This upconverts from HF to 125Mhz.  The setup for this is very different than what I'm describing here.  I'll cover that in another wiki page when mine arrives (its due in any day now).
 
 = (Shameless 4sale Ad) =
 
