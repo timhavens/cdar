@@ -26,9 +26,13 @@ Hardware Setup:
 
 RX-in/out Loop image HERE
 
+Tee Image HERE
+https://cdar.googlecode.com/files/20130620_172504.jpg
+
 RTL line image HERE
 
 RTL Dongle image HERE
+https://cdar.googlecode.com/files/20130620_172522.jpg
 
 -----------------------------------------------------------------------
 
