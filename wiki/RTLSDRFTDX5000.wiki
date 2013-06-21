@@ -25,6 +25,7 @@ If your RTL doesn't seem to show signals on your display you may require a small
 Hardware Setup:
 
 RX-in/out Loop image HERE
+https://cdar.googlecode.com/files/20130620_172429%20%281%29.jpg
 
 Tee Image HERE
 https://cdar.googlecode.com/files/20130620_172504.jpg
