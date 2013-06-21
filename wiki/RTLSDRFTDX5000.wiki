@@ -31,6 +31,13 @@ If your RTL doesn't seem to show signals on your display you may require a small
 There is another option rather than using RX-in/out you could use your IF OUT if your radio has this.
 In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 this is about 9Mhz.  Since the RTL dongles don't cover 9Mhz (>= 24Mhz only) you can purchase from http://nooelec.com something called a 'Ham it UP converter' for about $43.  This upconverts from HF to 125Mhz.  The setup for this is very different than what I'm describing here.  I'll cover that in another wiki page when mine arrives (its due in any day now).
 
+= (Shameless 4sale Ad) =
+
+I have in excellent condition an LP-Pan with the K3 preamp mod installed, some cabling, and an Emu-1212M sound card combo.
+
+Those interested should email me here:
+https://cdar.googlecode.com/files/email.jpg
+
 = Videos =
 
 I'm currently waiting for some decent openings to show this setups potential.  I'll also get some video of very weak openings so that you'll see how the system functions with weak signals as well.
