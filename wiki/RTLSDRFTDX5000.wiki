@@ -1,5 +1,7 @@
 #RTL-SDR USB used as an SDR to HDSDR for FTDX-5000
 
+= THIS PAGE STILL UNDER CONSTRUCTION =
+
 = Introduction =
 
 Today I decided to try something new.  This took a total of about 45 minutes from start to finish, with no outside directions on how to do it.  SO it's not that difficult.
