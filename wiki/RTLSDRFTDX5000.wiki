@@ -95,12 +95,17 @@ Now click on 'Options' > 'Visualizations' once again (yes clicking on options is
 
 In the image above make sure you have the items that are selected at this level 'selected/checked'.
 
-Now click on 'Options' > 'Input Channel Mode for RX'
+Click 'Options' > 'Input Channel Mode for RX'
+Select 'I (Left)/Q (Right)'
 
-Now click on 'Options' > 'Output Channel Mode for RX'
+Click 'Options' > 'Output Channel Mode for RX'
+Select 'AF to Both Channels'
 
-Now click on 'Options' > 'Input Channel Calibration for RX'
+Click 'Options' > 'Input Channel Calibration for RX'
+Make sure that 'Mode' is set to 'Auto' and click 'OK'
 
+Click 'Options' > 'Misc Options'
+Select 'Tune Fixed to LO'
+If you have a fast computer also select 'High Process Priority'
 
-
-Now click on 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.
+Click 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.
