@@ -65,3 +65,5 @@ Now click on "Options" (lower left of HDSDR) > "Select Input" and just verify th
 https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%2810%29.jpg
 
 Now click on soundcard, and configure your sound card.
+
+https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%288%29.jpg
