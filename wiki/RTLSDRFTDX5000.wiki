@@ -20,6 +20,9 @@ I have a short jumper between RX-OUT and a PR6 preamp, and RX-IN.  You won't nee
 
 If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
 
+= Videos =
+
+
 = Details =
 
 Hardware Setup:
