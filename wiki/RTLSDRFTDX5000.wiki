@@ -16,6 +16,8 @@ I'll outline how I set this up, along with some images to help you orient yourse
 
 This setup is very simple but has many steps.
 
+If you are already a user of HPSDR then this won't be all that foreign to you.  In fact I think it's actually simpler to setup than using one of the sound-card / LP-Pan setups (which I've been using for years). 
+
 You will be using the ports between RX-IN and RX-OUT.  
 
 This also means you'll want to turn on your RX in/out switch on the FTDX-5000.
