@@ -31,6 +31,7 @@ In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 thi
 
 = Videos =
 
+I'm currently waiting for some decent openings to show this setups potential.  I'll also get some video of very weak openings so that you'll see how the system functions with weak signals as well.
 
 = Details =
 
