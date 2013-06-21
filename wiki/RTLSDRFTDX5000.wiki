@@ -55,11 +55,10 @@ Place the ExtIO-RTL.dll in the directory where you just installed HDSDR.
 
 Now start HDSDR.
 
-Click on ExtIO you should see something like this:
-
-initially configure yours to appear like this image shows.
-
-click on the 'x' and exit that screen.
+  * Click on ExtIO you should see something like this:
+https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%286%29.jpg
+  * Initially configure yours to appear like this image shows.
+  * click on the 'x' and exit that screen.
 
 Now click on "Options" (lower left of HDSDR)
 
