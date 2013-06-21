@@ -67,6 +67,7 @@ Now run HDSDR by clicking on HPSDR.exe
 
 Click 'Options' > 'Cat to Radio (omni-rig)' > 'Omni-Rig Setup'
 You should already have CAT enabled on your FTDX-5000 and know how it's setup there in order to configure this area.  This is what it looks like for mine.
+
 https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%285%29.jpg
 
   * Click on ExtIO you should see something like this:
