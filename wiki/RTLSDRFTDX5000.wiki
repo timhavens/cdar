@@ -44,6 +44,8 @@ I'm currently waiting for some decent openings to show this setups potential.  I
 
 <wiki:video url="http://www.youtube.com/watch?v=Q5aC9r6vWHQ"/>
 
+<wiki:video url="http://www.youtube.com/watch?v=1NzQLU2CZ2c"/>
+
 = Details =
 
 ==Hardware Setup:==
