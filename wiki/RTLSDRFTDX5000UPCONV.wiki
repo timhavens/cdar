@@ -12,6 +12,8 @@ Okay so...this isn't that different from the 'Tee' method I've previously descri
 
 The exception to this previous method is that this method using the 9Mhz IF output on the FTDX-5000 (if could just as well use any HF IF frequency as well).  All that's required is to know the HF IF frequency, and add 125Mhz to it, and HDSDR will be very very close.  Should be within 1-2Khz.  This can be corrected as well to the point where you are within just a few hertz on your HDSDR display.
 
+The cheapest source to find an R820T chipset USB TV Dongle it Ebay.  I've bought several from there specifically from a user there named "Chinarf".  However, if speed is your game you can purchase the same thing from [http://www.nooelec.com/store/software-defined-radio/sdr-receivers/tv28tv2.html#.UciqBvnviqc Nooelec.com here]
+
 The "HamItUp" converter can be purchased  [http://www.nooelec.com/store/software-defined-radio/sdr-accessories/ham-it-up-v1-0-rf-upconverter-for-software-defined-radio.html#.Uccf8vnviqc Upconverter sold here]
 
 What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
