@@ -4,7 +4,12 @@
 
 = Introduction =
 
-Today I decided to try something new.  This took a total of about 45 minutes from start to finish, with no outside directions on how to do it.  SO it's not that difficult.
+Today I received my "HamItUp" (upconverter) which takes HF signals and upconverts them to whatever the frequency was at HF + 125Mhz.  For example my FTDX-5000 has a 9Mhz IF Output.  I've connected the upconverter to my 9Mhz output, and set HDSDR to use the RTL dongle at an IF of 134Mhz.  
+
+Immediately I noticed that I had more 'birdies' using this method, and actually I expected fewer.  So...after a bit I had the idea of using a toroid on the USB Power cable which powers the upconverter from the PC.  I used 7 wraps of the cable around a doughnut shaped torriod and WAH-LAH the birdies are gone.  Ok, I was amazed by that.  Maybe I shouldn't be, but the fact remains :-)
+
+Okay so...this isn't that different from the 'Tee' method I've previously described [https://code.google.com/p/cdar/wiki/RTLSDRFTDX5000
+ here].
 
 I operate nearly 100% on 50Mhz.  My radio is a Yaesu FTDX-5000.  For a few years I've been using something called LP-PAN to provide a decent pan-adapter for my radio.  This has worked fine for a few years, but there are some tech issues with this setup.  Most are known short-comings of using a sound-card to pass I/Q to your computer.  I won't go into those details at this point (maybe some other time).  
 
