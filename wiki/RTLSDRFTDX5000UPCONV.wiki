@@ -24,6 +24,8 @@ This setup is very simple but has many steps.
 
 If you are already a user of HPSDR then this won't be all that foreign to you.  In fact I think it's actually simpler to setup than using one of the sound-card / LP-Pan setups (which I've been using for years). 
 
+==Hardware Setup:==
+
 You will be using your radio's Lo-Band 'IF OUT'.  Hopefully your radio already has an IF OUTPUT, if not you should start looking at mods for your specific radio or it's schematic in order to resolve how best to tap the IF.  If you radio has an IF OUT already, and it's not say 6-9Mhz but instead > 50Mhz, you could just directly connect the R820T to that VHF IF Output and you should just about be done + some software configuration.
 
 To use the IF-OUT on the FTDX-5000 you need to get to menu item #109 and set it to 'enable'.
@@ -67,21 +69,6 @@ These two video's where taken of the first attempt using the "Tee" method mentio
 <wiki:video url="http://www.youtube.com/watch?v=1NzQLU2CZ2c"/>
 
 ==HamItUp Method==
-
-= Details =
-
-==Hardware Setup:==
-
-RX-in/out Loop image HERE
-https://cdar.googlecode.com/files/20130620_172429%20%281%29.jpg
-
-Tee Image HERE
-https://cdar.googlecode.com/files/20130620_172504.jpg
-
-RTL line image HERE
-
-RTL Dongle image HERE
-https://cdar.googlecode.com/files/20130620_172522.jpg
 
 -----------------------------------------------------------------------
 
