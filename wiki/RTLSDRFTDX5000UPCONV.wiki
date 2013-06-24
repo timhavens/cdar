@@ -136,17 +136,33 @@ Select 'AF to Both Channels'
 
 Click 'Options' > 'Input Channel Calibration for RX'
 Make sure that 'Mode' is set to 'Auto' and click 'OK'
+And 'Hz' = 1 (you can mess with this later if you have to)
 
 Click 'Options' > 'Misc Options'
 Select 'Tune Fixed to LO'
 If you have a fast computer also select 'High Process Priority'
 
-Click 'Options' and ensure that 'Swap I and Q channel for RX input' is NOT selected.  (if it is selected LSB will be swapped with USB)
+Click 'Options' and ensure that 'Swap I and Q channel for RX input' *IS* selected.  *This is different from the 'Tee' Method!*
 
 Click 'Options' > 'RF Front-End + Calibration'
 (This area is simple yet complicated if you don't understand what's going on) at this point you'll need some accurate signal source on 28Mhz or 50Mhz.  I used a small XG3 from Elecraft seen in one of the photo's above.  This generates a signal on 50.097 Mhz so that I was able to quickly get through this section.
-  * First select 'SDR hardware connected to antenna (default)'
-  * On the right side of this window is 'LO frequency calibration'
-    * Click 'Start' on the main window and you should see the display functioning at this point.
-  * Locate your signal source on the display, it shouldn't be too far off.  If you have to zoom in/out to get within 200Khz do that, this might help you find the carrier.
-  * Once you've located the carrier you will need to enter the 'correct Tune Frequency [Hz] and click 'Calculate' this will set a Frequency Correction in ppm (parts per million).  You may have to do this quite a few times.  If you see the carrier on your screen moving in the right direction continue by entering a new 'Correct Tune Frequency' until you get the carrier to display exactly on frequency.  BETWEEN each attempt you will want to click 'Reset' before you enter a new 'Correct Tune Frequency' and then 'Calculate'.  Once you are on the carrier and it shows up on you screen to your satisfaction click on 'OK'.
+  * First select 'SDR on IF output, which is controlled - *by Omni-Rig*'
+  * Set Sync Mode = 'Full sync in both directions'
+  * Set IF-Frequency = 134000000 Hz
+  * Set Global Offset = 293 Hz (you made need to tweak this some)
+  * Set LSB = 1500
+  * Set USB = -1500
+  * Set CW_U = -600
+  * Set CW_L = 600
+  * Click 'OK'
+  * Click HDSDR 'START' button.  You should see the waterfall functional at this point.
+  * Locate your signal source on the display, it shouldn't be too far off.  If you have to zoom in/out to get within 20Khz do that, this might help you find the carrier.
+  
+Now we need to mux around with Global Offset here Click 'Options' > 'RF Front-End + Calibration'.
+  * Once you've located the carrier you will need to enter the 'Global Offset in [Hz] and click the 'OK' button in order to view the results of the change.
+
+You may have to do this quite a few times.  If you see the carrier on your screen moving in the right direction continue by entering a new 'Global Offset' until you get the carrier to display exactly on frequency.  BETWEEN each attempt you will want to click 'OK' before you enter a new 'Global Offset' and then 'OK'.  Once you are on the carrier and it shows up on you screen to your satisfaction click on 'OK'.
+
+*THIS IS NEW TO ME TOO*  This is just a basic setup process I used to make this work with HamItUp upconverter by NooElec.com.  If you have any bugs, questions, or comments please email them to me at the email address noted above!
+
+Best 73!
