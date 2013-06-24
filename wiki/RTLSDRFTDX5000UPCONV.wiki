@@ -18,29 +18,29 @@ The "HamItUp" converter can be purchased  [http://www.nooelec.com/store/software
 
 What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
 
-
-
-
-
-I'll outline how I set this up, along with some images to help you orient yourself, and in the end provide details on another option I'm working on as well.
-
 *This isn't an all inclusive manual.*  It's a starting point.  You may need to alter some of the configurations to suit your taste and or requirements.
 
 This setup is very simple but has many steps.
 
 If you are already a user of HPSDR then this won't be all that foreign to you.  In fact I think it's actually simpler to setup than using one of the sound-card / LP-Pan setups (which I've been using for years). 
 
-You will be using the ports between RX-IN and RX-OUT.  
+You will be using your radio's Lo-Band 'IF OUT'.  Hopefully your radio already has an IF OUTPUT, if not you should start looking at mods for your specific radio or it's schematic in order to resolve how best to tap the IF.  If you radio has an IF OUT already, and it's not say 6-9Mhz but instead > 50Mhz, you could just directly connect the R820T to that VHF IF Output and you should just about be done + some software configuration.
 
-This also means you'll want to turn on your RX in/out switch on the FTDX-5000.
+To use the IF-OUT on the FTDX-5000 you need to get to menu item #109 and set it to 'enable'.
 
-This method on the FTDX-5000 radio should cover 24Mhz to 60Mhz.  Since 24Mhz is the lowest the RTL dongle covers.  
+Connect the HamItUp upconverter's INPUT port to your IF-OUT on the radio.  
 
-There is another option rather than using RX-in/out you could use your IF OUT if your radio has this.  In this case you need to know the frequency of your IF OUT.  On my FTDX-5000 this is about 9Mhz.  Since the RTL dongles don't cover 9Mhz (>= 24Mhz only) you can purchase from http://nooelec.com something called a 'Ham it UP converter' for about $43.  This upconverts from HF to 125Mhz.  The setup for this is very different than what I'm describing here.  I'll cover that in another wiki page when mine arrives (its due in any day now). [http://www.nooelec.com/store/software-defined-radio/sdr-accessories/ham-it-up-v1-0-rf-upconverter-for-software-defined-radio.html#.Uccf8vnviqc Upconverter sold here]
+Connect the HamItUp OUPUT to your RTL MCX antenna connector.
 
-I have a short jumper between RX-OUT and a PR6 preamp, and RX-IN.  You won't need the preamp I don't think.  I use this for receive on 6m.  But it is added gain that both the RTL dongle, and the Rcvr will see if you set yours up like this.  
+Connect the HamItUp USB power cable to an available usb port.
 
-If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
+Flip the switch labeled 'ByPass' to 'upconvert' (switched towards the RF output connector).
+
+*THAT'S IT* for the basic connection between the FTDX-5000 and your RTL dongle.
+
+If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp between the upconverter and the RTL dongle.  I use a 19db LNA here.  But it's probably not required.  The dongle has a fair amount of gain built in.
+
+to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
 
 = (Shameless 4sale Ad) =
 
