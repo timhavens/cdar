@@ -10,6 +10,10 @@ Immediately I noticed that I had more 'birdies' using this method, and actually 
 
 Okay so...this isn't that different from the 'Tee' method I've previously described [https://code.google.com/p/cdar/wiki/RTLSDRFTDX5000 here].
 
+The exception to this previous method is that this method using the 9Mhz IF output on the FTDX-5000 (if could just as well use any HF IF frequency as well).  All that's required is to know the HF IF frequency, and add 125Mhz to it, and HDSDR will be very very close.  Should be within 1-2Khz.  This can be corrected as well to the point where you are within just a few hertz on your HDSDR display.
+
+The "HamItUp" converter can be purchased  [http://www.nooelec.com/store/software-defined-radio/sdr-accessories/ham-it-up-v1-0-rf-upconverter-for-software-defined-radio.html#.Uccf8vnviqc Upconverter sold here]
+
 I operate nearly 100% on 50Mhz.  My radio is a Yaesu FTDX-5000.  For a few years I've been using something called LP-PAN to provide a decent pan-adapter for my radio.  This has worked fine for a few years, but there are some tech issues with this setup.  Most are known short-comings of using a sound-card to pass I/Q to your computer.  I won't go into those details at this point (maybe some other time).  
 
 What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
