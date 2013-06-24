@@ -38,9 +38,7 @@ Flip the switch labeled 'ByPass' to 'upconvert' (switched towards the RF output 
 
 *THAT'S IT* for the basic connection between the FTDX-5000 and your RTL dongle.
 
-If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp between the upconverter and the RTL dongle.  I use a 19db LNA here.  But it's probably not required.  The dongle has a fair amount of gain built in.
-
-to run off the RTL line of the Tee in your RX-in/out loop.  This way you aren't adding gain to your actual receiver (if you're one of those who don't believe in such things).
+If your RTL doesn't seem to show signals on your display you may require a small 10-15db preamp between the upconverter and the RTL dongle.  I use a 19db LNA here.  But it's probably not required.  The dongle has a fair amount of gain built in.  This should cover whatever the upconverted frequency is when it leaves the HamItUp output.  In my case 134Mhz with the FTDX-5000.  The LNA I'm using is VERY wide banded, and doesn't have a very nice NF something like 1.3db.  BUT it works just fine.  Since all I'm trying to do is SEE RF signals that my EAR is able to hear in my radio which isn't affected by this LNA's NF.  But you do whatever you have to and are happy with.
 
 = (Shameless 4sale Ad) =
 
@@ -54,9 +52,13 @@ https://cdar.googlecode.com/files/email.jpg
 
 I'm currently waiting for some decent openings to show this setups potential.  I'll also get some video of very weak openings so that you'll see how the system functions with weak signals as well.
 
+These two video's where taken of the first attempt using the "Tee" method mentioned previously.
+== Tee Method ==
 <wiki:video url="http://www.youtube.com/watch?v=Q5aC9r6vWHQ"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=1NzQLU2CZ2c"/>
+
+==HamItUp Method==
 
 = Details =
 
