@@ -23,6 +23,8 @@ In order to do this you will need the following.
 == Virtual Audio Cable ==
 https://cdar.googlecode.com/files/virt_audio_cable_setup.jpg
 
+https://cdar.googlecode.com/files/hdsdr_cwskimmer_IQ.jpg
+
 == CW SKIMMER ==
 
 == Aggregator ==
