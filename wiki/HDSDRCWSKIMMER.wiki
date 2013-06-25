@@ -25,6 +25,8 @@ In order to do this you will need the following.
 ==LBP2 Setup==
 https://cdar.googlecode.com/files/LBP2_setup_share_cat.jpg
 
+https://cdar.googlecode.com/files/omni_rig_rig2_for_cw_skimmer.jpg
+
 == Virtual Audio Cable ==
 https://cdar.googlecode.com/files/virt_audio_cable_setup.jpg
 
