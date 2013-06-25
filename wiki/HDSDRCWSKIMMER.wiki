@@ -25,6 +25,8 @@ https://cdar.googlecode.com/files/virt_audio_cable_setup.jpg
 
 https://cdar.googlecode.com/files/hdsdr_cwskimmer_IQ.jpg
 
+https://cdar.googlecode.com/files/hdsdr_virt_audio_setup.jpg
+
 == CW SKIMMER ==
 
 == Aggregator ==
