@@ -15,12 +15,13 @@ In order to do this you will need the following.
       * http://www.it9tyr.com/it9tyr/2013/04/6m-master-dta-database-2013/
         * To edit the master data file download and use
           * http://www.dxatlas.com/MEdit/
-  * Aggregator 2.4 (if you want to send spots to the Reverse Beacon Network)
+  * Aggregator 2.4 (*ONLY if you want to send spots to the Reverse Beacon Network*)
     * http://www.reversebeacon.net/genn.php?a=started
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Virtual Audio Cable ==
+
+== CW SKIMMER ==
+
+== Aggregator ==
