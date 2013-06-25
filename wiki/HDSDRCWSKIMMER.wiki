@@ -21,6 +21,7 @@ In order to do this you will need the following.
 = Details =
 
 == Virtual Audio Cable ==
+https://cdar.googlecode.com/files/virt_audio_cable_setup.jpg
 
 == CW SKIMMER ==
 
