@@ -165,4 +165,6 @@ You may have to do this quite a few times.  If you see the carrier on your scree
 
 *THIS IS NEW TO ME TOO*  This is just a basic setup process I used to make this work with HamItUp upconverter by NooElec.com.  If you have any bugs, questions, or comments please email them to me at the email address noted above!
 
-Best 73!
+=HELP=
+  * https://sites.google.com/site/g4zfqradio/installing-and-using-hdsdr
+  * http://www.hdsdr.de/faq.html
