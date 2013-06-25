@@ -2,6 +2,8 @@
 
 = Introduction =
 
+http://www.reversebeacon.net/dxsd1/dxsd1.php?f=0&c=NW0W&t=de
+
 If you so desire it's possible to route HDSDR I/Q signals out to CWSKIMMER.
 
 In order to do this you will need the following.
