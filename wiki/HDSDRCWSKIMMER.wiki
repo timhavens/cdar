@@ -8,7 +8,7 @@ In order to do this you will need the following.
 
 ==software required==
   * Virtual Audio Cable
-    * http://software.muzychenko.net/eng/vac.htm (costs $35 for Full Version YOU REQUIRE THIS)
+    * http://software.muzychenko.net/eng/vac.htm (*costs $35 for Full Version YOU REQUIRE THIS*)
   * CWSkimmer 
     * http://www.dxatlas.com/CwSkimmer/Files/CwSkimmer.zip
     * MasterData File
