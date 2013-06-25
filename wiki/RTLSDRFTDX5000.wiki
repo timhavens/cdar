@@ -139,3 +139,7 @@ Click 'Options' > 'RF Front-End + Calibration'
     * Click 'Start' on the main window and you should see the display functioning at this point.
   * Locate your signal source on the display, it shouldn't be too far off.  If you have to zoom in/out to get within 200Khz do that, this might help you find the carrier.
   * Once you've located the carrier you will need to enter the 'correct Tune Frequency [Hz] and click 'Calculate' this will set a Frequency Correction in ppm (parts per million).  You may have to do this quite a few times.  If you see the carrier on your screen moving in the right direction continue by entering a new 'Correct Tune Frequency' until you get the carrier to display exactly on frequency.  BETWEEN each attempt you will want to click 'Reset' before you enter a new 'Correct Tune Frequency' and then 'Calculate'.  Once you are on the carrier and it shows up on you screen to your satisfaction click on 'OK'.
+
+=HELP=
+  * https://sites.google.com/site/g4zfqradio/installing-and-using-hdsdr
+  * http://www.hdsdr.de/faq.html
