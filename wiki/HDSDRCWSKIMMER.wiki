@@ -23,7 +23,7 @@ This is just a pointer to how I have set this up and have it running currently. 
     * http://www.dxatlas.com/CwSkimmer/Files/CwSkimmer.zip
     * MasterData File
       * http://www.it9tyr.com/it9tyr/2013/04/6m-master-dta-database-2013/
-        * To edit the master data file download and use
+        * To edit the master data file download and use (not a requirement but you'll probably want to edit the master data file from time to time to improve CWSKIMMER accuracy.
           * http://www.dxatlas.com/MEdit/
   * Aggregator 2.4 (*ONLY if you want to send spots to the Reverse Beacon Network*)
     * http://www.reversebeacon.net/genn.php?a=started
