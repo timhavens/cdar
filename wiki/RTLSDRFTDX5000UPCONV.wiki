@@ -69,6 +69,8 @@ I'm currently waiting for some decent openings to show this setups potential.  I
 ==HamItUp Method==
 <wiki:video url="http://www.youtube.com/watch?v=P0ptFsM83Qo"/>
 
+<wiki:video url="http://www.youtube.com/watch?v=_Noln8pVKp0"/>
+
 -----------------------------------------------------------------------
 
 Install your R820T chipset RTL USB "dongle" in a USB2.0 or faster port
