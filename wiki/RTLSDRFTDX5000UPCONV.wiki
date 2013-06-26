@@ -45,7 +45,7 @@ https://cdar.googlecode.com/files/hamitup_power_cable_and_toriod.jpg
 *(with toriod added!!!!)*
 
 https://cdar.googlecode.com/files/LNA.jpg
-*LNA*
+*LNA* http://www.rfbayinc.com/upload/files/lna/lna-3000b.pdf
 
 https://cdar.googlecode.com/files/R820T_with_msx_to_sma.jpg
 *(R820T)*
