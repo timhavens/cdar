@@ -18,6 +18,8 @@ The "HamItUp" converter can be purchased  [http://www.nooelec.com/store/software
 
 *BEWARE there IS a short warm-up time for the 125Mhz xtal to stabilize*
 
+  I've seen the Upconverter take about 3-5 Minutes to stop drifting.
+
 What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T and a $43 upconverter as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
 
 *This isn't an all inclusive manual.*  It's a starting point.  You may need to alter some of the configurations to suit your taste and or requirements.
