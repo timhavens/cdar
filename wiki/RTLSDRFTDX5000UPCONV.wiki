@@ -6,7 +6,7 @@
 
 Today I received my "HamItUp" (upconverter) which takes HF signals and upconverts them to whatever the frequency was at HF + 125Mhz.  For example my FTDX-5000 has a 9Mhz IF Output.  I've connected the upconverter to my 9Mhz output, and set HDSDR to use the RTL dongle at an IF of 134Mhz.  
 
-Immediately I noticed that I had more 'birdies' using this method, and actually I expected fewer.  So...after a bit I had the idea of using a toroid on the USB Power cable which powers the upconverter from the PC.  I used 7 wraps of the cable around a doughnut shaped torriod and WAH-LAH the birdies are gone.  Ok, I was amazed by that.  Maybe I shouldn't be, but the fact remains :-)
+Immediately I noticed that I had more 'birdies' using this method*, and actually I expected fewer.  So...after a bit I had the idea of using a toroid on the USB Power cable which powers the upconverter from the PC.  I used 7 wraps of the cable around a doughnut shaped torriod and WAH-LAH the birdies are gone.  Ok, I was amazed by that.  Maybe I shouldn't be, but the fact remains :-) [http://www.newark.com/fair-rite/5943003801/ferrite-core-toroid-43/dp/27C1651?Ntt=5943003801 these are the ones I used] but likely any would work.  I used one on each end of the usb cable.  You need a long enough cable to get about 7 turns on it.  Other options are to use a battery extended for a cellphone where the battery would act as a filter, and or a usb cable that has ferrites on both ends.  
 
 Okay so...this isn't that different from the 'Tee' method I've previously described [https://code.google.com/p/cdar/wiki/RTLSDRFTDX5000 here].  *If you haven't read this yet, you might want to.*
 
