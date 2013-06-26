@@ -62,13 +62,8 @@ https://cdar.googlecode.com/files/email.jpg
 
 I'm currently waiting for some decent openings to show this setups potential.  I'll also get some video of very weak openings so that you'll see how the system functions with weak signals as well.
 
-These two video's where taken of the first attempt using the "Tee" method mentioned previously.
-== Tee Method ==
-<wiki:video url="http://www.youtube.com/watch?v=Q5aC9r6vWHQ"/>
-
-<wiki:video url="http://www.youtube.com/watch?v=1NzQLU2CZ2c"/>
-
 ==HamItUp Method==
+<wiki:video url="http://www.youtube.com/watch?v=P0ptFsM83Qo"/>
 
 -----------------------------------------------------------------------
 
