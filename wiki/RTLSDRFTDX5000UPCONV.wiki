@@ -93,7 +93,7 @@ https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%285%29.jpg
 Click 'Options' > 'Cat to Radio (omni-rig) ensure these options are set.
 https://cdar.googlecode.com/files/rtl_sdr_cat_to_hdsdr.jpg
 
-  * Click on ExtIO you should see something like this:
+  * Click on ExtIO you should see something like this (be sure to test out larger buffer sizes to see if your computer handles them I'm currently using 8kb rather than the 2kb the images shows) :
 https://cdar.googlecode.com/files/rtl_sdt_ft5k%20%286%29.jpg
   * Initially configure yours to appear like this image shows.
   * click on the 'x' and exit that screen.
