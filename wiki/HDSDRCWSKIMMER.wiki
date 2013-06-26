@@ -11,6 +11,9 @@ In order to do this you will need the following.
 *THIS IS NOT A COMPLETED MANUAL*
 This is just a pointer to how I have set this up and have it running currently.  I'll add more descriptive text soon.
 
+==HamItUp Method==
+<wiki:video url="http://www.youtube.com/watch?v=P0ptFsM83Qo"/>
+
 ==software required==
   * LBP2 (serial port sharing for CAT control)
     * http://www.telepostinc.com/LPB2.html
