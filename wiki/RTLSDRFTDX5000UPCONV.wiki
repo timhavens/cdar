@@ -16,7 +16,7 @@ The cheapest source to find an R820T chipset USB TV Dongle it Ebay.  I've bought
 
 The "HamItUp" converter can be purchased  [http://www.nooelec.com/store/software-defined-radio/sdr-accessories/ham-it-up-v1-0-rf-upconverter-for-software-defined-radio.html#.Uccf8vnviqc Upconverter sold here]
 
-What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
+What I've done today is to use a $15 USB TV RTL 'dongle' with a chipset of R820T and a $43 upconverter as a direct replacement for nearly $600 worth of equipment WITH FAR BETTER RESULTS!  In short "It's STUNNING".
 
 *This isn't an all inclusive manual.*  It's a starting point.  You may need to alter some of the configurations to suit your taste and or requirements.
 
