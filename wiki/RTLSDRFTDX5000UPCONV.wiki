@@ -2,6 +2,8 @@
 
 = THIS PAGE STILL UNDER CONSTRUCTION =
 
+https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
+
 = Introduction =
 
 Today I received my "HamItUp" (upconverter) which takes HF signals and upconverts them to whatever the frequency was at HF + 125Mhz.  For example my FTDX-5000 has a 9Mhz IF Output.  I've connected the upconverter to my 9Mhz output, and set HDSDR to use the RTL dongle at an IF of 134Mhz.  
