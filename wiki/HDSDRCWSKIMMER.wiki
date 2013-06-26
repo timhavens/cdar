@@ -11,6 +11,8 @@ In order to do this you will need the following.
 *THIS IS NOT A COMPLETED MANUAL*
 This is just a pointer to how I have set this up and have it running currently.  I'll add more descriptive text soon.
 
+https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
+
 ==HamItUp Method==
 <wiki:video url="http://www.youtube.com/watch?v=P0ptFsM83Qo"/>
 
