@@ -1,6 +1,9 @@
 #RTL-SDR AND "Hamitup" (converter) USB used as an SDR to HDSDR for FTDX-5000
 
 [https://code.google.com/p/opendous/wiki/Upconverter Excellent Documentation on the Upconverter]
+*So NooElec's documentation indicates about 10db loss over the upconversion.  I am using a 17.5db gain LNA (very wide lna)*
+
+Your experience may vary, but you might want to consider using an LNA as well.  That's up to you and your particular setup.
 
 https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
 
