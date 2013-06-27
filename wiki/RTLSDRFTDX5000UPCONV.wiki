@@ -1,6 +1,6 @@
 #RTL-SDR AND "Hamitup" (converter) USB used as an SDR to HDSDR for FTDX-5000
 
-= THIS PAGE STILL UNDER CONSTRUCTION =
+[https://code.google.com/p/opendous/wiki/Upconverter Excellent Documentation on the Upconverter]
 
 https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
 
