@@ -76,6 +76,10 @@ I'm currently waiting for some decent openings to show this setups potential.  I
 
 <wiki:video url="http://www.youtube.com/watch?v=_Noln8pVKp0"/>
 
+
+
+<wiki:video url="http://www.youtube.com/watch?v=RgDH2904c9A"/>
+
 -----------------------------------------------------------------------
 
 Install your R820T chipset RTL USB "dongle" in a USB2.0 or faster port
