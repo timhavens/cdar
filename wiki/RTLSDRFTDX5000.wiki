@@ -143,3 +143,6 @@ Click 'Options' > 'RF Front-End + Calibration'
 =HELP=
   * https://sites.google.com/site/g4zfqradio/installing-and-using-hdsdr
   * http://www.hdsdr.de/faq.html
+
+==Misc==
+http://research.physics.illinois.edu/bezryadin/labprotocol/SIF-50.pdf
