@@ -61,6 +61,8 @@ To use the IF-OUT on the FTDX-5000 you need to get to menu item #109 and set it 
 
 https://cdar.googlecode.com/files/hamitup_upconverter.jpg
 
+[https://plus.google.com/u/0/photos/109081672217576088028/albums/5896065518073329073 How I 'boxed' my upconverter]
+
   * Connect the HamItUp upconverter's INPUT port to your IF-OUT on the radio.  
   * Connect the HamItUp OUPUT to your RTL MCX antenna connector.
   * Connect the HamItUp USB power cable to an available usb port.
