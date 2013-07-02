@@ -33,6 +33,24 @@ This setup is very simple but has many steps.
 
 If you are already a user of HPSDR then this won't be all that foreign to you.  In fact I think it's actually simpler to setup than using one of the sound-card / LP-Pan setups (which I've been using for years). 
 
+==Brief Parts List==
+From the 9Mhz IF out on the back of my FTDX-5000 there is a Female RCA conn:
+
+  * RCA(M) to BNC(F) adapter
+  * BNC(M) to SMA(M) 12" RG400 Jumper
+  * SMA(F) conn (INPUT) port on "HamItUp" 125 Mhz Upconverter
+    * There is a USB-B (printer port type conn) that is connected to my PC after loops through a torroid.
+      * This powers the Upconverter.
+  * SMA(F) conn (OUPUT) port on "HamItUp" 125 Mhz Upconverter to 12"  SMA(M) / SMA(M) jumper
+    *This jumper connected to a LNA-3000a 17.5db (1.3db NF) LNA (see: https://www.components76.com/pdf_dir/LNA-3000A.pdf)
+  * Short Jumper from LNA OUTPUT SMA(M) to MCX(m) which plugs into the RTL
+  * This RTL is similar to the one I have: http://www.nooelec.com/store/software-defined-radio/sdr-receivers/tv28tv2.html#.UdK7ZvnviuI
+
+So there's a small power supply for the LNA I'm using also not already mentioned.
+
+Now here is the deal, there is about 10-15db loss in the 125Mhz upconversion so to compensate I added the LNA.
+I haven't removed it since I added it to test without it because things are just about perfect for my taste.
+
 ==Hardware Setup:==
 
 You will be using your radio's Lo-Band 'IF OUT'.  Hopefully your radio already has an IF OUTPUT, if not you should start looking at mods for your specific radio or it's schematic in order to resolve how best to tap the IF.  If you radio has an IF OUT already, and it's not say 6-9Mhz but instead > 50Mhz, you could just directly connect the R820T to that VHF IF Output and you should just about be done + some software configuration.
