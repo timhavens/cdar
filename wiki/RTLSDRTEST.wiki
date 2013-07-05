@@ -9,7 +9,7 @@ Add your content here.
 
 http://sdr.osmocom.org/trac/attachment/wiki/rtl-sdr/RelWithDebInfo.zip
 
-Download that put in a directory of it's own 
+Download that put in a directory of it's own I put mine here: *C:\Program Files\RTL_SDR*
 
 Open a command prompt
 
