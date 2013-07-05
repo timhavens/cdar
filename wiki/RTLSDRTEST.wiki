@@ -7,7 +7,25 @@ Add your content here.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+http://sdr.osmocom.org/trac/attachment/wiki/rtl-sdr/RelWithDebInfo.zip
+
+Download that put in a directory of it's own 
+
+Open a command prompt
+
+then try these in this order
+
+ctrl-c (control C) exits the test.
+
+If you see an continous 'lost at least' message hit CTRL and C to cancel and try the next level below:
+
+3.2msps
+C:\Program Files\RTL_SDR>rtl_test -s 3.2e6
+
+2.88msps
+C:\Program Files\RTL_SDR>rtl_test -s 2.88e6
+
+2.4msps (this is the one I am now using because the previous two show lost data packets, and you don't want that)
+C:\Program Files\RTL_SDR>rtl_test -s 2.4e6
+
+This will tell you if your loosing any data when running at higher speed sampling rates.
