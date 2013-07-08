@@ -114,6 +114,7 @@ You will also want to have a serial port available to control your FTDX-5000.  T
 
 Download the following three bits of software:
   * Zadig: http://sourceforge.net/projects/libwdi/files/zadig/ (get the most recent version)
+    * http://rtlsdr.org/softwarewindows (details on how to use zadig are here)
   * HDSDR: http://www.hdsdr.de/
   * ExtIO_RTL: https://github.com/josemariaaraujo/ExtIO_RTL/blob/master/Release/ExtIO_RTL.dll
 
