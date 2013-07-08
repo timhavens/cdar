@@ -112,7 +112,8 @@ You will also want to have a serial port available to control your FTDX-5000.  T
 
 [https://code.google.com/p/cdar/wiki/RTLSDRTEST Howto Test the max sample-rate your PC and RTL can handle without data loss]
 
-Download the following two bits of software:
+Download the following three bits of software:
+  * Zadig: http://sourceforge.net/projects/libwdi/files/zadig/ (get the most recent version)
   * HDSDR: http://www.hdsdr.de/
   * ExtIO_RTL: https://github.com/josemariaaraujo/ExtIO_RTL/blob/master/Release/ExtIO_RTL.dll
 
