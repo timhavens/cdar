@@ -48,7 +48,8 @@ From the 9Mhz IF out on the back of my FTDX-5000 there is a Female RCA conn:
     * There is a USB-B (printer port type conn) that is connected to my PC after loops through a torroid.
       * This powers the Upconverter.
   * SMA(F) conn (OUPUT) port on "HamItUp" 125 Mhz Upconverter to 12"  SMA(M) / SMA(M) jumper
-    * This jumper connected to a LNA-3000B 17.5db (1.3db NF) LNA 
+    * This jumper connected to IN of a Par 'VHF-FM' Broadcast band-stop filter: [http://www.parelectronics.com/fm-broadcast.php here] (Just for grins)
+  * Output of the VHF-FM connected to 'IN' LNA-3000B 17.5db (1.3db NF) LNA 
       * http://rfbayinc.com/product_info.php?cPath=1_83&products_id=111
       * http://rfbayinc.com/products_pdf/product_111.pdf
     * Recommended LNA: [http://lna4all.blogspot.com/2013/04/lna-for-all-low-noise-amplifier-for.html HERE] *WAY Cheaper*
