@@ -7,6 +7,8 @@ https://cdar.googlecode.com/files/dont_interrupt.jpg
 [https://code.google.com/p/opendous/wiki/Upconverter Excellent Documentation on the Upconverter]
 *So NooElec's documentation indicates about 10db loss over the upconversion.  I am using a 17.5db gain LNA (very wide lna)*
 
+[http://lna4all.blogspot.com/2013/04/lna-for-all-low-noise-amplifier-for.html Here is an FB LNA for next to nothing]
+
 Your experience may vary, but you might want to consider using an LNA as well.  That's up to you and your particular setup.
 
 https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
