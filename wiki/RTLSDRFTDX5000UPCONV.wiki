@@ -59,7 +59,7 @@ From the 9Mhz IF out on the back of my FTDX-5000 there is a Female RCA conn:
 So there's a small power supply for the LNA I'm using also not already mentioned.
 
 Now here is the deal, there is about 10-15db loss in the 125Mhz upconversion so to compensate I added the LNA.
-I haven't removed it since I added it to test without it because things are just about perfect for my taste.
+I haven't removed it since I added it to test without it because things are just about perfect for my taste.  *N2TU* is running his setup similar to mine minus the VHF-FM and LNA with very good results.  This just requires a bit more gain in the RTL setup than I'm using.
 
 ==Hardware Setup:==
 
