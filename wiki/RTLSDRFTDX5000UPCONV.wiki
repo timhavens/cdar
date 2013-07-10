@@ -51,6 +51,7 @@ From the 9Mhz IF out on the back of my FTDX-5000 there is a Female RCA conn:
     * This jumper connected to a LNA-3000B 17.5db (1.3db NF) LNA 
       * http://rfbayinc.com/product_info.php?cPath=1_83&products_id=111
       * http://rfbayinc.com/products_pdf/product_111.pdf
+    * Recommended LAN: [http://lna4all.blogspot.com/2013/04/lna-for-all-low-noise-amplifier-for.html HERE] *WAY Cheaper*
   * Short Jumper from LNA OUTPUT SMA(M) to MCX(m) which plugs into the RTL
   * This RTL is similar to the one I have: http://www.nooelec.com/store/software-defined-radio/sdr-receivers/tv28tv2.html#.UdK7ZvnviuI
 
