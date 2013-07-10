@@ -44,6 +44,9 @@ https://cdar.googlecode.com/files/ftdx5000_upconvert_to_RTL_HDSDR_17.jpg
 
 https://cdar.googlecode.com/files/ftdx5000_upconvert_to_RTL_HDSDR_18.jpg
 
+=VAC to CWSKIMMER=
+
+https://cdar.googlecode.com/files/VAC.jpg
 
 https://cdar.googlecode.com/files/vac_1_1.jpg
 
