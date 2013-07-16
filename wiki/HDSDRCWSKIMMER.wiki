@@ -20,7 +20,8 @@ https://cdar.googlecode.com/files/rtl_to_ftdx_block.jpg
   * LBP2 (serial port sharing for CAT control)
     * http://www.telepostinc.com/LPB2.html
   * Virtual Audio Cable
-    * http://software.muzychenko.net/eng/vac.htm (*costs $35 for Full Version YOU REQUIRE THIS*)
+    * http://software.muzychenko.net/eng/vac.htm (*costs $35 for Full Versio*)
+    * http://vb-audio.pagesperso-orange.fr/Cable/ (Free for one virt. cable - W9RM reports it seems to work with the same quality as VAC)
   * CWSkimmer 
     * http://www.dxatlas.com/CwSkimmer/Files/CwSkimmer.zip
     * MasterData File
