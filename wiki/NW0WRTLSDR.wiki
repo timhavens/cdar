@@ -5,3 +5,20 @@
 This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9Mhz IF.
 
 = Details =
+
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_1.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_2.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_3.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_4.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_5.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_6.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_7.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_8.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_9.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_10.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_11.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_12.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_13.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_14.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_15.jpg
+https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_16.jpg
