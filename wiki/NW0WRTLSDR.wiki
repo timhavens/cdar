@@ -1,0 +1,7 @@
+#This is NW0W's version 2 RTL SDR for 9Mhz IF
+
+= Introduction =
+
+This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9Mhz IF.
+
+= Details =
