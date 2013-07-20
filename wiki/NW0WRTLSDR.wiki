@@ -6,6 +6,8 @@ This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9
 
 = Details =
 
+https://cdar.googlecode.com/files/rtl_sdr_if_panadapter%20%288%29.jpg
+
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_1.jpg
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_2.jpg
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_3.jpg
