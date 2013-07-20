@@ -4,7 +4,7 @@
 
 https://cdar.googlecode.com/files/dont_interrupt.jpg
 
-
+https://cdar.googlecode.com/files/rtl_sdr_if_panadapter%20%288%29.jpg
 [https://code.google.com/p/cdar/wiki/NW0WRTLSDR RTL SDR IF PANADAPTER HERE]
 
 *[https://plus.google.com/u/0/photos/109081672217576088028/albums/5896065518073329073 How I 'boxed' my upconverter]*
