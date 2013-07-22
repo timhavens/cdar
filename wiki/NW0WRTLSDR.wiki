@@ -24,3 +24,11 @@ https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_13.jpg
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_14.jpg
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_15.jpg
 https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_16.jpg
+
+=IF-INHIBIT Switch=
+
+https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_1.jpg
+https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_2.jpg
+https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_3.jpg
+https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_4.jpg
+https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_5.jpg
