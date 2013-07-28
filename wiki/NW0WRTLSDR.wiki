@@ -2,7 +2,24 @@
 
 = Introduction =
 
-This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9Mhz IF.
+This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9Mhz IF Out.
+
+  * This box uses
+    * NooElec R820T RTL
+    * NooElec HamItUp 125Mhz Upconverter
+    * MeanWell 120vac/5vdc PS
+    * CorCom EMI Filter (120vac)
+    * SIIG SS-USB3.0 Powered Hub powered from MeanWell PS
+    * LNA-3000a 
+    * VHF-FM Stop-Band FM-Band Notch Filter
+    * Two Ferrite Torriods
+    * Packed into a Hammond Case
+    * Double Sided Copper PCB's to create shelves, and compartments 
+      * in order to reduce RFI/EMI between components
+
+    * This has resulted in a better than expected >95% reduction in 'birdies' and odd spurs, etc.
+    
+    * While the LNA is NOT a requirement, it certainly aids in NOT having to use any of the RTL Gain or very low amounts.  I generally have been using 1db of RTL Gain, and RTL AGC = ON.
 
 = Details =
 
