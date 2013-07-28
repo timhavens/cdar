@@ -44,6 +44,12 @@ https://cdar.googlecode.com/files/rtl_sdr_upconverter_v2_16.jpg
 
 =IF-INHIBIT Switch=
 
+==WHY THIS?==
+
+  * I don't want the 9Mhz Out impacting CWSKIMMER by my own CW Transmissions.
+  * This uses a simple 12v supply and GND line to 'flip-flop' the SMA relay.
+  * I've built another one that uses a micro-switch-reed-relay and 26v, but I have yet to try and integrate this into my sequencer system.
+
 https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_1.jpg
 https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_2.jpg
 https://cdar.googlecode.com/files/rtl_sdr_if_inhibit_switch_3.jpg
