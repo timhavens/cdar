@@ -6,7 +6,7 @@ This is my most recent version of an RTL SDR for my FTDX-5000 for use with the 9
 
   * This box uses
     * NooElec R820T RTL
-    * NooElec HamItUp 125Mhz Upconverter
+    * NooElec HamItUp 125Mhz Upconverter (uses a modified power cable direct to the MeanWell 5v supply)
     * MeanWell 120vac/5vdc PS
     * CorCom EMI Filter (120vac)
     * SIIG SS-USB3.0 Powered Hub powered from MeanWell PS
