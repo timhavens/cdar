@@ -7,7 +7,7 @@
 
 = Details =
 
-Add your content here.  Format your content with:
+==External Links *(VALUABLE READING!)*==
   * [https://plus.google.com/u/0/photos/109081672217576088028/albums/5611829141334391313 NW0W PLN Master]
   * [http://www.ham-radio.com/n6ca/50MHz/50appnotes/noiz_rx/noizcancelRx.html N6CA Ideas]
   * [http://www.qsl.net/i0jx/anc-4.pdf I0JX Ideas]
