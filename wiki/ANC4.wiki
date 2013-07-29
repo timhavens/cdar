@@ -12,4 +12,4 @@
   * [http://www.ham-radio.com/n6ca/50MHz/50appnotes/noiz_rx/noizcancelRx.html N6CA Ideas]
   * [http://www.qsl.net/i0jx/anc-4.pdf I0JX Ideas]
   * [http://www.conknet.com/~b_mobile/NoiseStuff.html K1SIX Ideas]
-  * [PY1RO Doc]
+  * [https://cdar.googlecode.com/files/anc-4-py1ro-noise-paper.doc PY1RO Doc]
