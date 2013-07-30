@@ -13,3 +13,4 @@
   * [http://www.qsl.net/i0jx/anc-4.pdf I0JX Ideas (pdf)]
   * [http://www.conknet.com/~b_mobile/NoiseStuff.html K1SIX Ideas (html)]
   * [https://cdar.googlecode.com/files/anc-4-py1ro-noise-paper.doc PY1RO Ideas (word doc)]
+    * [https://cdar.googlecode.com/files/py1ro_acn4_setup.jpg PY1RO Block-Diagram]
