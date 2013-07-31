@@ -1,13 +1,8 @@
-#summary One-sentence summary of this page.
+#summary 2X LFA-HZE concept @ NW0W
 
 = Introduction =
 
-Add your content here.
+https://cdar.googlecode.com/files/NW0W_2x_HZE-LFA_Idea.jpg
 
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
