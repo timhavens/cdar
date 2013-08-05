@@ -1,7 +1,7 @@
 #summary 2X LFA-HZE concept @ NW0W
 
 = Introduction =
-  * Using the [http://www.arraysolutions.com/Products/prosistel.htm Prosistel ring rotors] the two yagi's can be master/slaved to operate together from a single RT-21 controller _OR_ independently.
+  * Using the [http://www.arraysolutions.com/Products/pstrr55D.htm Prosistel ring rotors] the two yagi's can be master/slaved to operate together from a single RT-21 controller _OR_ independently.
     * this can be useful for various ANC-4 experiments for example.
   * Power Rating: 5kw
   * SWR: Below 1.13:1 from 50.00MHz to 50.400MHz
