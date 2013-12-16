@@ -27,6 +27,7 @@ http://sdrsharp.com/index.php/downloads
 
 ===Spectrum Lab:===
 http://www.qsl.net/dl4yhf/spectra1.html
+http://cmhas.wikispaces.com/slmeteor (*required* script setup)
 
 ===Colorgramme:===
 http://radio.meteor.free.fr/fr/en/logiciels.html#4
