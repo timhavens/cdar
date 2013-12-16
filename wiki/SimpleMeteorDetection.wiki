@@ -18,3 +18,5 @@ Things you'll need:
     * Spectrum Lab
       * script for spectrum lab to do the automated detection process.
     * Colorgramme
+
+==SOFTWARE SETUP==
