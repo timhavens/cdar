@@ -21,5 +21,9 @@ Things you'll need:
 
 ==SOFTWARE SETUP==
 
+===SDR#===
 http://sdrsharp.com/index.php/downloads
   * INSTALLATION:* http://rtlsdr.org/softwarewindows
+
+===Spectrum Lab:===
+http://www.qsl.net/dl4yhf/spectra1.html
