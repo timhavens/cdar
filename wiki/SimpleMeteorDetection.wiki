@@ -6,6 +6,8 @@ For a few years now I've been using these cheap RTL (R820T, FC0013) TV dongles (
 
 <wiki:video url="https://www.youtube.com/watch?v=wxWo-WlLwhA"/>
 
+http://www.imo.net/radio/reflection
+
 = Details =
 
 Things you'll need:
