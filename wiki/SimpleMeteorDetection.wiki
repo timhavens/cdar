@@ -4,6 +4,7 @@
 
 For a few years now I've been using these cheap RTL (R820T, FC0013) TV dongles (about $15-20USD) as inexpensive SDR receivers.  I've been wanting to get one of them working as a Meteor Detector (and counter) for a while now.  This is how I accomplished it.
 
+<wiki:video url="https://www.youtube.com/watch?v=wxWo-WlLwhA"/>
 
 = Details =
 
