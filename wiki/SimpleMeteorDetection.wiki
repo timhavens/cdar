@@ -22,3 +22,4 @@ Things you'll need:
 ==SOFTWARE SETUP==
 
 http://sdrsharp.com/index.php/downloads
+  *INSTALLATION:* http://rtlsdr.org/softwarewindows
