@@ -9,8 +9,7 @@ For a few years now I've been using these cheap RTL (R820T, FC0013) TV dongles (
 
 Things you'll need:
   * A RTL Dongle (I prefer the Nooelec R820T) but likely any will be ok.
-  * Antenna (a directional antenna will be useful, but anything will work)
-    I use a 6 Ele 50Mhz Yagi at 15 feet up.
+  * Antenna (a directional antenna will be useful, but anything will work) I use a 6 Ele 50Mhz Yagi at 15 feet up.
   * Coax (better is gooderer :-)  I already had LMR400 on this antenna.
   * Not required, but I use a Miteq LNA 'AU-2A-0110' and sometimes a Miteq 'AU-1362'
   * SOFTWARE:
