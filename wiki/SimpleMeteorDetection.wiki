@@ -20,3 +20,5 @@ Things you'll need:
     * Colorgramme
 
 ==SOFTWARE SETUP==
+
+http://sdrsharp.com/index.php/downloads
