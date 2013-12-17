@@ -28,6 +28,16 @@ Things you'll need:
 http://sdrsharp.com/index.php/downloads
   * INSTALLATION:* http://rtlsdr.org/softwarewindows
 
+https://cdar.googlecode.com/files/sdrms1.jpg
+https://cdar.googlecode.com/files/sdrms2.jpg
+https://cdar.googlecode.com/files/sdrms3.jpg
+https://cdar.googlecode.com/files/sdrms4.jpg
+https://cdar.googlecode.com/files/sdrms5.jpg
+https://cdar.googlecode.com/files/sdrms6.jpg
+https://cdar.googlecode.com/files/sdrms7.jpg
+https://cdar.googlecode.com/files/sdrms8.jpg
+https://cdar.googlecode.com/files/sdrms9.jpg
+
 ===Spectrum Lab:===
 http://www.qsl.net/dl4yhf/spectra1.html
 
