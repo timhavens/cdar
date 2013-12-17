@@ -32,7 +32,9 @@ http://sdrsharp.com/index.php/downloads
 http://www.qsl.net/dl4yhf/spectra1.html
 
 http://cmhas.wikispaces.com/slmeteor (*required* script setup)
-THIS WIKI COPY OF REQUIRED SCRIPT: https://cdar.googlecode.com/files/0_MeteorLogger_SD_2012-06-09.TXT
+
+THIS WIKI COPY OF REQUIRED SCRIPT: 
+https://cdar.googlecode.com/files/0_MeteorLogger_SD_2012-06-09.TXT
 
 ===Colorgramme:===
 http://radio.meteor.free.fr/fr/en/logiciels.html#4
