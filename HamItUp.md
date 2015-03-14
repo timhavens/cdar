@@ -1,0 +1,1 @@
+[For more detail go here](http://www.nooelec.com/store/software-defined-radio/sdr-accessories/ham-it-up-v1-0-rf-upconverter-for-software-defined-radio.html#.Ucizlvnviqd)
